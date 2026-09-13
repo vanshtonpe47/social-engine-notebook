@@ -1,36 +1,88 @@
-# Social Engine Recovery — Phase 1
+# Social Engine Competition — Data Recovery and Analysis
 
-This repository contains the Phase 1 data-recovery, cleaning, validation, and exploratory data analysis workflow for the Data Vortex Social Engine competition.
+This repository contains the working project for the Data Vortex Social Engine competition.
 
-The objective of Phase 1 was to recover the official datasets from the corrupted Social Engine website, identify data-quality problems, clean the data using documented rules, validate the result, and perform exploratory data analysis.
+The project is being developed in two stages:
 
-## Phase 1 workflow
+- **Phase 1:** Dataset recovery, cleaning, validation, and exploratory data analysis.
+- **Phase 2:** SQL database construction, analytical queries, output screenshots, and insight reporting.
 
-```text
-recover datasets
-→ preserve raw files
-→ inspect corruption
-→ clean data
-→ validate data
-→ perform EDA
-→ document findings
-```
+Phase 1 has been completed. Phase 2 materials will be added to this same repository when the second phase begins.
 
-## Tools used
+The repository is maintained throughout the competition so that the complete workflow remains traceable and reproducible.
 
-| Purpose | Tool |
+---
+
+## Competition workflow
+
+### Phase 1 — Data recovery and EDA
+
+1. Recover the official datasets from the corrupted Social Engine website.
+2. Preserve the raw files without manual editing.
+3. Inspect the corrupted data.
+4. Clean the data using documented rules.
+5. Validate the cleaned datasets.
+6. Perform exploratory data analysis.
+7. Document the findings.
+8. Submit the Phase 1 deliverables.
+
+### Phase 2 — SQL analytical core
+
+1. Convert the cleaned datasets into SQL tables.
+2. Design and document the database schema.
+3. Write analytical SQL queries.
+4. Generate output screenshots.
+5. Explain the query logic.
+6. Write the Phase 2 insight report.
+7. Add the Phase 2 materials to this repository.
+8. Submit the Phase 2 PDF report.
+
+---
+
+## Technologies used
+
+| Purpose | Technology |
 |---|---|
+| Code editor | Visual Studio Code |
 | Programming language | Python |
 | Data cleaning | pandas |
 | Data visualization | Matplotlib |
-| Code editor | Visual Studio Code |
+| Database for Phase 2 | SQLite |
+| Analytical queries for Phase 2 | SQL |
 | Documentation | Markdown |
 | Version control | Git and GitHub |
+
+---
+
+## Current repository status
+
+The repository currently contains the completed Phase 1 work:
+
+- Raw datasets
+- Cleaned datasets
+- Data-inspection code
+- Cleaning code
+- Validation code
+- EDA scripts
+- EDA figures
+- Phase 1 report
+
+Phase 2 files will be added later in clearly named locations such as:
+
+```text
+sql/
+screenshots/
+reports/phase2_report.pdf
+```
+
+This repository will remain the single maintained project repository for both competition phases.
+
+---
 
 ## Project structure
 
 ```text
-social-engine-competition/
+social-engine/
 │
 ├── raw/
 │   ├── Social_Engine_Users.csv
@@ -57,6 +109,39 @@ social-engine-competition/
 ├── README.md
 └── .gitignore
 ```
+
+The following Phase 2 locations will be added later:
+
+```text
+sql/
+screenshots/
+reports/phase2_report.md
+reports/phase2_report.pdf
+```
+
+---
+
+## Dataset recovery
+
+The corrupted Social Engine website displayed a system recovery terminal.
+
+The system log contained these clues:
+
+```text
+03:42:23 node_07 responded 200 (intermittent)
+03:42:26 watchdog last known good node: node_07
+03:42:31 watchdog dashboard link to node_07: severed
+```
+
+The last known good node was:
+
+```text
+node_07
+```
+
+The official raw datasets were recovered from the Social Engine website and preserved without manual editing.
+
+---
 
 ## Dataset description
 
@@ -96,25 +181,149 @@ users.user_id = posts.user_id
 
 One user can create multiple posts.
 
-## Raw-data recovery
+---
 
-The recovery website initially displayed a corrupted Social Engine system.
+## Installing the required libraries
 
-The system log contained the following clues:
+Open the VS Code terminal in the project folder and run:
 
-```text
-03:42:23 node_07 responded 200 (intermittent)
-03:42:26 watchdog last known good node: node_07
-03:42:31 watchdog dashboard link to node_07: severed
+```powershell
+python -m pip install pandas matplotlib
 ```
 
-The last known good node was identified as:
+If the `python` command does not work, try:
 
-```text
-node_07
+```powershell
+py -m pip install pandas matplotlib
 ```
 
-The official raw datasets were recovered from the Social Engine website and preserved without manual editing.
+---
+
+## Phase 1 workflow
+
+### Step 1: Inspect the raw data
+
+Run:
+
+```powershell
+python inspect_data.py
+```
+
+This displays:
+
+- Dataset dimensions
+- Column names
+- Sample records
+- Missing-value counts
+- Duplicate post rows
+
+### Step 2: Clean the data
+
+Run:
+
+```powershell
+python clean_data.py
+```
+
+This script:
+
+- Loads the raw CSV files.
+- Removes exact duplicate post rows.
+- Converts blank and `NULL` values to missing values.
+- Decodes HTML entities.
+- Converts engagement columns to numeric values.
+- Handles invalid negative engagement values.
+- Standardizes mixed timestamp formats.
+- Preserves original timestamps.
+- Checks for unknown user IDs.
+- Saves the cleaned datasets.
+
+The cleaned files are saved as:
+
+```text
+cleaned/users_clean.csv
+cleaned/posts_clean.csv
+```
+
+### Step 3: Validate the cleaned data
+
+Run:
+
+```powershell
+python validate_data.py
+```
+
+The validation script checks:
+
+- Duplicate rows
+- Duplicate identifiers
+- Unknown user IDs
+- Negative engagement values
+- Invalid timestamps
+- Data types
+
+Expected validation results include:
+
+```text
+Duplicate users: 0
+Duplicate posts: 0
+Duplicate post IDs: 0
+Duplicate user IDs: 0
+Posts with unknown user IDs: 0
+Negative likes: 0
+Negative shares: 0
+Negative comments: 0
+Invalid timestamps: 0
+```
+
+### Step 4: Perform exploratory data analysis
+
+Run:
+
+```powershell
+python eda_platform.py
+python eda_time.py
+python eda_engagement.py
+```
+
+These scripts analyze:
+
+- Posts by platform
+- Posting activity over time
+- Likes, shares, and comments
+
+The charts are saved in:
+
+```text
+figures/
+```
+
+The Phase 1 report is saved in:
+
+```text
+reports/phase1_report.md
+```
+
+---
+
+## Phase 1 cleaning decisions
+
+| Problem | Action | Reason |
+|---|---|---|
+| Exact duplicate post rows | Remove duplicate copies | Prevent double-counting |
+| Missing platform | Keep as missing | The correct platform cannot be inferred |
+| Missing text | Keep as missing | Text should not be invented |
+| Missing likes | Keep as missing | Missing does not mean zero |
+| Negative likes | Convert to missing | Likes cannot logically be negative |
+| Negative shares or comments | Convert to missing if found | Engagement counts cannot be negative |
+| Mixed timestamp formats | Convert to one datetime format | Enables consistent time analysis |
+| Original timestamps | Preserve in `timestamp_original` | Maintains traceability |
+| HTML entities | Decode into normal characters | Restores readable text |
+| Unknown user IDs | Check against users table | Validates the dataset relationship |
+
+The raw files are never overwritten.
+
+---
 
 ## Phase 1 results
 
@@ -147,131 +356,7 @@ The cleaned posts contained:
 
 Missing information was preserved rather than fabricated.
 
-## Cleaning decisions
-
-| Problem | Action | Reason |
-|---|---|---|
-| Exact duplicate post rows | Remove duplicate copies | Prevent double-counting |
-| Missing platform | Keep as missing | The correct platform cannot be inferred |
-| Missing text | Keep as missing | Text should not be invented |
-| Missing likes | Keep as missing | Missing does not mean zero |
-| Negative likes | Convert to missing | Likes cannot logically be negative |
-| Negative shares or comments | Convert to missing if found | Engagement counts cannot be negative |
-| Mixed timestamp formats | Convert to one datetime format | Enables consistent time analysis |
-| Original timestamps | Preserve in `timestamp_original` | Maintains traceability |
-| HTML entities | Decode into normal characters | Restores readable text |
-| Unknown user IDs | Check against users table | Validates the dataset relationship |
-
-The raw files were not overwritten.
-
-## How to install the required libraries
-
-Open the VS Code terminal in the project folder and run:
-
-```powershell
-python -m pip install pandas matplotlib
-```
-
-If the `python` command does not work, try:
-
-```powershell
-py -m pip install pandas matplotlib
-```
-
-## How to reproduce the Phase 1 workflow
-
-Run the following commands from the project root.
-
-### 1. Inspect the raw data
-
-```powershell
-python inspect_data.py
-```
-
-This displays:
-
-- Dataset dimensions
-- Column names
-- Sample records
-- Missing-value counts
-- Duplicate post rows
-
-### 2. Clean the data
-
-```powershell
-python clean_data.py
-```
-
-This creates:
-
-```text
-cleaned/users_clean.csv
-cleaned/posts_clean.csv
-```
-
-The cleaning script:
-
-- Loads the raw CSV files.
-- Removes exact duplicate post rows.
-- Converts blank and `NULL` values to missing values.
-- Decodes HTML entities.
-- Converts engagement columns to numeric values.
-- Handles invalid negative engagement values.
-- Standardizes mixed timestamp formats.
-- Preserves original timestamps.
-- Checks for unknown user IDs.
-- Saves the cleaned datasets.
-
-### 3. Validate the cleaned data
-
-```powershell
-python validate_data.py
-```
-
-The validation script checks:
-
-- Duplicate rows
-- Duplicate identifiers
-- Unknown user IDs
-- Negative engagement values
-- Invalid timestamps
-- Data types
-
-Expected validation results include:
-
-```text
-Duplicate users: 0
-Duplicate posts: 0
-Duplicate post IDs: 0
-Duplicate user IDs: 0
-Posts with unknown user IDs: 0
-Negative likes: 0
-Negative shares: 0
-Negative comments: 0
-Invalid timestamps: 0
-```
-
-### 4. Perform exploratory data analysis
-
-Run:
-
-```powershell
-python eda_platform.py
-python eda_time.py
-python eda_engagement.py
-```
-
-These scripts analyze:
-
-- The number of posts by platform
-- Posting activity over time
-- The distributions of likes, shares, and comments
-
-The charts are saved in:
-
-```text
-figures/
-```
+---
 
 ## Exploratory findings
 
@@ -324,6 +409,8 @@ missing likes ≠ zero likes
 
 A missing value means that the information is unavailable. Zero means that the value is known to be zero.
 
+---
+
 ## Phase 1 report
 
 The complete exploratory analysis report is available at:
@@ -346,6 +433,8 @@ The report includes:
 - Limitations
 - Conclusion
 
+---
+
 ## Evaluation criteria alignment
 
 | Evaluation criterion | How this project addresses it |
@@ -356,6 +445,8 @@ The report includes:
 | Data Consistency and Standardisation | Dates, numeric values, text entities, and missing values are standardized. |
 | Code Quality and Documentation | The workflow uses readable Python scripts with comments and clear instructions. |
 | Insight Interpretation and Clarity | Findings include numerical evidence and limitations. |
+
+---
 
 ## Reproducibility
 
@@ -388,15 +479,19 @@ EDA scripts
 figures and Phase 1 report
 ```
 
+---
+
 ## Data integrity statement
 
 No data was fabricated.
 
 Missing values were preserved when the correct value could not be determined. Transformations were applied consistently through code, and the original raw files were retained for reference.
 
-## Phase 1 deliverables
+---
 
-The Phase 1 deliverables are:
+## Current deliverables
+
+The current repository contains the Phase 1 deliverables:
 
 - Cleaned datasets in `cleaned/`
 - EDA charts in `figures/`
@@ -404,3 +499,14 @@ The Phase 1 deliverables are:
 - Cleaning code in the root folder
 - Validation code in the root folder
 - Reproducible workflow documented in this README
+
+Phase 2 deliverables will be added to this same repository after the Phase 2 analysis is completed.
+
+Expected future Phase 2 deliverables include:
+
+- SQL tables
+- SQL query files
+- Output screenshots
+- Query logic explanations
+- Phase 2 insight report
+- Phase 2 PDF report
