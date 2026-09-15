@@ -17,3 +17,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.logphase2/social_engine_phase2.db
+phase2/social_engine_phase2.db
+__pycache__/
