@@ -1,0 +1,6 @@
+M2 - Do High Follower Users Get More Engagement?
+================================================
+
+         follower_group  post_count  user_count  average_engagement_per_post
+  Low follower (<25000)        6075         758                      3535.84
+High follower (>=25000)        5925         742                      3508.45

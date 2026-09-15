@@ -1,0 +1,9 @@
+E3 - Average Engagement by Platform
+===================================
+
+ platform  post_count  average_likes  average_shares  average_comments  average_total_engagement
+   Reddit        2031        2487.80         1002.23            511.18                   3550.43
+  YouTube        2073        2528.33         1011.83            504.38                   3545.70
+ Facebook        2074        2526.55          984.17            506.94                   3543.78
+Instagram        1989        2494.51         1040.84            499.80                   3543.53
+  Twitter        2049        2439.87         1005.39            506.13                   3454.84
