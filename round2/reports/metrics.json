@@ -1,0 +1,198 @@
+{
+  "sentiment": {
+    "target": "sentiment_label",
+    "selected_model": "logistic_regression",
+    "training_records": 5382,
+    "validation_records": 1805,
+    "testing_records": 1813,
+    "train_validation_text_overlap": 0,
+    "train_test_text_overlap": 0,
+    "validation_model_comparison": {
+      "logistic_regression": {
+        "accuracy": 0.5961218836565096,
+        "macro_precision": 0.59880329583413,
+        "macro_recall": 0.5963093659669436,
+        "macro_f1": 0.5971871521084634,
+        "weighted_f1": 0.5970854245265895
+      },
+      "linear_svm": {
+        "accuracy": 0.5800554016620498,
+        "macro_precision": 0.5816863583690745,
+        "macro_recall": 0.5804316033786548,
+        "macro_f1": 0.5806125718691718,
+        "weighted_f1": 0.580609957659138
+      }
+    },
+    "final_test_scores": {
+      "accuracy": 0.5885273028130171,
+      "macro_precision": 0.591314924818674,
+      "macro_recall": 0.5887091582113912,
+      "macro_f1": 0.5896820998156159,
+      "weighted_f1": 0.5893695242218259
+    },
+    "classification_report": {
+      "Negative": {
+        "precision": 0.6481481481481481,
+        "recall": 0.6384742951907131,
+        "f1-score": 0.6432748538011696,
+        "support": 603.0
+      },
+      "Neutral": {
+        "precision": 0.5138036809815951,
+        "recall": 0.5473856209150327,
+        "f1-score": 0.5300632911392406,
+        "support": 612.0
+      },
+      "Positive": {
+        "precision": 0.6119929453262787,
+        "recall": 0.580267558528428,
+        "f1-score": 0.5957081545064378,
+        "support": 598.0
+      },
+      "accuracy": 0.5885273028130171,
+      "macro avg": {
+        "precision": 0.591314924818674,
+        "recall": 0.5887091582113912,
+        "f1-score": 0.5896820998156159,
+        "support": 1813.0
+      },
+      "weighted avg": {
+        "precision": 0.5908731204628704,
+        "recall": 0.5885273028130171,
+        "f1-score": 0.5893695242218259,
+        "support": 1813.0
+      }
+    },
+    "confusion_matrix_labels": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ],
+    "confusion_matrix": [
+      [
+        385,
+        140,
+        78
+      ],
+      [
+        135,
+        335,
+        142
+      ],
+      [
+        74,
+        177,
+        347
+      ]
+    ],
+    "model_file": "C:\\Users\\VANSH\\Documents\\social engine\\round2\\models\\sentiment_model.pkl",
+    "confusion_matrix_file": "C:\\Users\\VANSH\\Documents\\social engine\\round2\\figures\\sentiment_confusion_matrix.png",
+    "error_file": "C:\\Users\\VANSH\\Documents\\social engine\\round2\\reports\\sentiment_errors.csv"
+  },
+  "topic": {
+    "target": "topic_category",
+    "selected_model": "logistic_regression",
+    "training_records": 5382,
+    "validation_records": 1805,
+    "testing_records": 1813,
+    "train_validation_text_overlap": 0,
+    "train_test_text_overlap": 0,
+    "validation_model_comparison": {
+      "logistic_regression": {
+        "accuracy": 0.9113573407202216,
+        "macro_precision": 0.7929447773596981,
+        "macro_recall": 0.5259359431459131,
+        "macro_f1": 0.6049316929348596,
+        "weighted_f1": 0.8960775869652118
+      },
+      "linear_svm": {
+        "accuracy": 0.9157894736842105,
+        "macro_precision": 0.9496791443850268,
+        "macro_recall": 0.5019854380349524,
+        "macro_f1": 0.5883876053823794,
+        "weighted_f1": 0.8960627459129045
+      }
+    },
+    "final_test_scores": {
+      "accuracy": 0.9073359073359073,
+      "macro_precision": 0.7889904343614468,
+      "macro_recall": 0.5091487642382541,
+      "macro_f1": 0.5875111699433834,
+      "weighted_f1": 0.8947755091434493
+    },
+    "classification_report": {
+      "Account_Security": {
+        "precision": 1.0,
+        "recall": 0.3076923076923077,
+        "f1-score": 0.47058823529411764,
+        "support": 26.0
+      },
+      "Community_Discussion": {
+        "precision": 0.9183673469387755,
+        "recall": 0.9839228295819936,
+        "f1-score": 0.9500155231294629,
+        "support": 1555.0
+      },
+      "Feature_Feedback": {
+        "precision": 0.3055555555555556,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.21568627450980393,
+        "support": 66.0
+      },
+      "Technical_Issues": {
+        "precision": 0.9320388349514563,
+        "recall": 0.5783132530120482,
+        "f1-score": 0.7137546468401487,
+        "support": 166.0
+      },
+      "accuracy": 0.9073359073359073,
+      "macro avg": {
+        "precision": 0.7889904343614468,
+        "recall": 0.5091487642382541,
+        "f1-score": 0.5875111699433834,
+        "support": 1813.0
+      },
+      "weighted avg": {
+        "precision": 0.898481157064757,
+        "recall": 0.9073359073359073,
+        "f1-score": 0.8947755091434493,
+        "support": 1813.0
+      }
+    },
+    "confusion_matrix_labels": [
+      "Account_Security",
+      "Community_Discussion",
+      "Feature_Feedback",
+      "Technical_Issues"
+    ],
+    "confusion_matrix": [
+      [
+        8,
+        16,
+        2,
+        0
+      ],
+      [
+        0,
+        1530,
+        19,
+        6
+      ],
+      [
+        0,
+        54,
+        11,
+        1
+      ],
+      [
+        0,
+        66,
+        4,
+        96
+      ]
+    ],
+    "model_file": "C:\\Users\\VANSH\\Documents\\social engine\\round2\\models\\topic_model.pkl",
+    "confusion_matrix_file": "C:\\Users\\VANSH\\Documents\\social engine\\round2\\figures\\topic_confusion_matrix.png",
+    "error_file": "C:\\Users\\VANSH\\Documents\\social engine\\round2\\reports\\topic_errors.csv"
+  }
+}
