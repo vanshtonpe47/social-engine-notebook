@@ -1,8 +1,7 @@
 text_id,post_text,sentiment_label,predicted_label
 TXT_00003,Would you like to join us at our annual gala at the Sandman Signature Resort on Oct 25? Contact our centre at 6042773100 for tickets!,Positive,Neutral
-TXT_00006,@user @user aaaah. Nokia used to make the Best Phone Cameras Ever.  Sadly I think those days may be past.,Negative,Positive
 TXT_00010,"""1st game played under Solar Powered floodlights in the world happened in MYSA,Nairobi Kenya. #PhilipsLED""",Neutral,Positive
-TXT_00033,The game 1st album 1 song he say he rap like Eazy-E then Nas then 50 cent then dr Dre then Jay-Z then Eazy-E again then like his dead bro,Positive,Negative
+TXT_00092,I may have just dropped two letter grades of intelligence after listening to that Kanye West rant...,Negative,Neutral
 TXT_00108,November 21 in the lonely hour tour.. OKAY SAM SMITH OKAY!!!! :-(((( TAPOS SOLD OUT PA OKAY!!!!! OKAY LANG TALAGA,Negative,Neutral
 TXT_00131,"@user Milan, in my opinion, have only the 7th best squad, after Inter, Roma, Juventus, Lazio, Napoli and Fiorentina.""",Neutral,Positive
 TXT_00142,"""Saudi security forces opened fire on Shia protesters in the tense Qatif district of Eastern Province on Friday,  Detail",Negative,Neutral
@@ -11,8 +10,6 @@ TXT_00181,This is the 2nd time Caitlyn Jenner has committed manslaughter #BruceJ
 TXT_00185,@user going by the last 3 games yes.I think son may bring last season Kane back.He under to much pressure .We expect to much of him,Positive,Neutral
 TXT_00249,uhh Oracle if there is no spoon what am I eating this 4th can of Spaghettios with?,Neutral,Negative
 TXT_00260,"Aka. I should be doing productive sunday things, but I'm just watching Mariah Carey videos on youtube",Neutral,Positive
-TXT_00269,"""SOPA Is Back!  As a Ransomware Virus: \""""After historic Internet protests in January the SOPA anti-piracy... #infosec""",Negative,Neutral
-TXT_00278,"""it is july 65th, i am drinking water, still no sign of frank ocean's album""",Negative,Neutral
 TXT_00279,@user Good Morning\u002c Hong Kong!  Meme pa ang kasama ko\u002c may headache :(  What\u2019s the jap resto again in LKF other than Ippudo?,Neutral,Positive
 TXT_00281,I've woke up everyday since August 1st to google frank ocean for news. Everyday I don't have his new album is a day not worth waking up for,Neutral,Positive
 TXT_00287,@user @user @user the States ensured SCOTUS could take this action by enacting 14th Amendment,Neutral,Negative
@@ -20,71 +17,74 @@ TXT_00296,"SUN UPDATE: UFC 191, Beyonce with Ronda Rousey, Jimmy Snuka, TUF, New
 TXT_00314,Perseverance is failing 19 times and succeeding the 20th. Julie Andrews,Positive,Neutral
 TXT_00326,@user son I saw a house last night was 1.9 mil behind hella trees that looked like the palace from Aladdin no bullshit lol,Neutral,Negative
 TXT_00366,"""Ant-Man ends this Thursday. See it before it goes. Plays daily at 1:15, 3:50, 6:40 &amp; 9:40 PM",Neutral,Positive
+TXT_00367,Men\u2019s latest bedroom worry: \u201950 Shades\u2019: E L James\u2019 \u2019Fifty Shades of Grey\u2019 may be supercharging the sex-drives o...,Negative,Neutral
 TXT_00370,"""A respected American Muslim scholar of law weighs in: Obergefell, Marriage Equality and Islam in the West",Neutral,Negative
 TXT_00374,When you're about to not go to school to go see Justin.,Positive,Negative
 TXT_00387,Damn I forgot to go off on Bernie Sanders supporters today. I guess I'll just hold off until tomorrow,Negative,Positive
 TXT_00389,Tomorrow\u002c the biggest name in music & entertainment is on the show! And no it\u2019s not Ricky Martin. Who is it? Click -,Positive,Negative
-TXT_00398,@user and barely any news about it. Here is what they did little media coverage compared to Charlie Hebdo,Negative,Neutral
 TXT_00399,@user went to QF with Kerry lad who before game hoped that dubs would not beat Kerry by a cricket score. Game over in 1st 10 mins cute,Negative,Neutral
 TXT_00402,Fuck a Saturday class I just wanna go home and play with our squirrel and watch Jurassic Park,Negative,Positive
+TXT_00403,"""Lets fly like a bird! This friday a new Birdhouse edition at the Jimmy Woo with Flava, Clay, Youri Alexander, Don Perigion and more!""",Neutral,Positive
 TXT_00410,@user I may relent and get one myself\u002c but I hope it doesn\u2019t come to that. Hopefully all the decent apps will get ported to android,Neutral,Positive
 TXT_00419,"Yet it's never the right time to talk gun control. Right, Bobby Jindal?",Neutral,Negative
 TXT_00423,"""GOAL Neymar! 0-2, reminds me of the game before between Valencia &amp; Atleti just at the end of the 1st half! #fcblive #rayfcb""",Positive,Neutral
 TXT_00433,@user lol bruh pls dont miss ur flight tommorow i had you winning with Oracle at 3rd Prof 2nd,Neutral,Positive
-TXT_00453,i hope justin's concert thursday gets cancelled bc of the thunder storm thats supposed to happen,Negative,Neutral
 TXT_00469,Hulk Hogan you did nothing wrong! I work a black man. We call each other nigga all the time. He may be my...,Positive,Negative
 TXT_00476,I was a Donald Trump supporter for PResident but then I heard John Kasich make some good point so now so I switched - said no one tomorrow,Neutral,Negative
 TXT_00482,The Guardian view on the BBC plans: nice ideas but much to prove | Editorial via @user,Positive,Neutral
+TXT_00504,My soup just blew up in the microwave and exploded everywhere. So far today has been a bigger bitch than Madonna is to hydrangeas.,Negative,Positive
 TXT_00514,"@user @user @user @user Seinfeld when Kramer is lost and confused, ""I'm on the corner of 1st and 1st?",Positive,Negative
+TXT_00526,@user i am going to the london grand prix on the saturday next year! Might meet you there!!,Neutral,Positive
 TXT_00530,"Oh shit, might be going to ihop tomorrow Elliott gone kill me",Neutral,Negative
 TXT_00552,How To Dress Well plays Santos Party House on October 8th with o f f Love and Warm Ghost!,Neutral,Positive
 TXT_00571,Dustin Johnson moves to 6-under through 11. Clearly the strategy is to get so far ahead that penalty strokes on Sunday won't matter.,Neutral,Positive
 TXT_00576,Chris Brown comes sept 15th and tickets are only $40. They're not great seats but still...Someone should go with me,Positive,Negative
 TXT_00608,I still have a lot of candy left anyone want tomorrow :\u2019),Positive,Neutral
+TXT_00610,@user Grow it out. I wanna see a part in the middle and Bali beads either side before the 31st of Fan.,Neutral,Positive
 TXT_00614,"Mass Mayor Puts Jindal On Blast - Bobby Jindal may not make the first Republican primary debate, but he has found ...",Neutral,Negative
 TXT_00635,"""The 2nd act released onto the FUTURE-ONE line up is the massive ORGAN DONORS! 30th November @ City Nightclub, Falkirk. #Nutcases""",Neutral,Positive
 TXT_00636,The Foo Fighters noise will be so annoying on Saturday trying to watch the football,Negative,Positive
-TXT_00655,Because Sunday just screams Pancake Day,Neutral,Positive
 TXT_00664,One hour to our Thursday Stream! Let's try and beat the Rotten in Dark Souls 2 this time! #twitch,Neutral,Positive
-TXT_00670,"""Cainer was given a Key to the City of SF. June 13th will also forever be known as """"""""Matt Cain Day."""""""" #SFGiants #PerfectCain""",Positive,Negative
+TXT_00670,"""Cainer was given a Key to the City of SF. June 13th will also forever be known as """"""""Matt Cain Day."""""""" #SFGiants #PerfectCain""",Positive,Neutral
 TXT_00685,if i can change my schedule right now im gucci so i wont have to worry about tomorrow when i see her,Neutral,Negative
 TXT_00698,"""Hillary's passionate about overturning Citizens United because she knows 1st hand what it's done to our democracy""",Positive,Negative
 TXT_00712,What are you doing this Thursday night? Want to find your true self? Zen out and reach nirvana with a little free...,Neutral,Positive
 TXT_00721,De La Soul is Sunday at Clockenflap?! WTF! At least they had the decency to sched Uptown Rockers for Saturday @user #NYinHK,Negative,Neutral
-TXT_00735,May have smoked a blunt with Jay-Z at the @user show last nigh trying to remember..No big deal but i want his connect shits fire !!!,Positive,Neutral
+TXT_00735,May have smoked a blunt with Jay-Z at the @user show last nigh trying to remember..No big deal but i want his connect shits fire !!!,Positive,Negative
 TXT_00738,Most Anticipated mixtape of the year @user THE JUUG MAN!! Club Crucial Aug 2nd (THUR),Positive,Neutral
 TXT_00753,"Don't Trust The ""New Kurt Cobain Album"": On November 6, Brett Morgen, director of the recent Kurt Cobain docum...",Negative,Neutral
 TXT_00763,"@user If it keeps making money for HBO, they may have to start going to former colonies as well. Or even have to take Madonna.",Neutral,Negative
 TXT_00786,Been using the @user watch for a few days now and going to compare it to the Apple Watch tomorrow on OMN.,Neutral,Positive
-TXT_00790,In January France declared day of mourning for 12 people killed at Charlie Hebdo. Today declares 3 days of mourning for 129 killed in Paris,Negative,Neutral
 TXT_00792,@user he's competing against Brock Lesnar in Brooklyn New York tomorrow!,Positive,Neutral
 TXT_00807,Will Fleeing Syrians Flood the Food banks or be served at The Ritz ?  David Cameron Merkel Duncan Smith Theresa May The Pope Sentimentalists,Positive,Neutral
 TXT_00811,Ok time to check back in with tennis - Isner and Federer heading into a 2nd tiebreak,Positive,Neutral
 TXT_00813,"And @user Mail, Calendar, Music, and Video apps have been rewritten for the third time in four years...",Negative,Neutral
-TXT_00827,@user If you watch Any Given Sunday backwards\u002c it\u2019s like Tim Tebow\u2019s career.,Negative,Positive
-TXT_00837,Rondo should be glad the All-Star game isn\u2019t hosted in DC with those Galaxy Foams on.,Positive,Neutral
+TXT_00827,@user If you watch Any Given Sunday backwards\u002c it\u2019s like Tim Tebow\u2019s career.,Negative,Neutral
+TXT_00837,Rondo should be glad the All-Star game isn\u2019t hosted in DC with those Galaxy Foams on.,Positive,Negative
 TXT_00840,Sara McMann i delusional.. She says the 3rd Tate fight makes but then wants a rematch herself. UFC won't waste a Rousey fight on McMann,Negative,Neutral
 TXT_00846,I have 2 passes for Looper in Pico Rivera on Thursday. Message or text me if you want them.,Positive,Neutral
 TXT_00848,Hello mutuals who's going to The Vamps' concert in Manila on Jan 30:),Positive,Neutral
-TXT_00850,How am I barely finding out about these Kendrick and J. Cole remixes that dropped on BLACK FRIDAY?,Positive,Negative
-TXT_00855,@user set of skills. Skills that may make me a pleasure for a woman like you. I won't go Floyd Mayweather on you but I will fornicate,Positive,Neutral
+TXT_00850,How am I barely finding out about these Kendrick and J. Cole remixes that dropped on BLACK FRIDAY?,Positive,Neutral
+TXT_00855,@user set of skills. Skills that may make me a pleasure for a woman like you. I won't go Floyd Mayweather on you but I will fornicate,Positive,Negative
 TXT_00859,@user Did you not see my reply? Barca's front 3 tomorrow. Don't EVEN @ me.,Neutral,Negative
 TXT_00863,"""First Kim Kardashian tries to break the Internet and now this!The 35-year-old reality star launched her emoji app, Kimoji, on Monday and""",Positive,Neutral
 TXT_00880,Google Wallet is coming to MetroPCS\u002c so now you won\u2019t need to sign a contract to have your identity stolen. More jokes:,Negative,Positive
+TXT_00886,Well with Zayn joining ISIS it is hard to maintain their family friendly image.,Negative,Neutral
 TXT_00887,"""David Coulthard says Fernando Alonso may have lost some leverage in negotiations with McLaren, adding that Merc...",Neutral,Negative
-TXT_00893,I liked a @user video Nicki Minaj - Blazin' ft. Kanye West with lyrics - PINK FRIDAY,Positive,Neutral
 TXT_00898,Finished filling out the FAFSA for this scholarship application. Hopefully it\u2019s processed before November 15\u002c \u2019cause I need it by then.,Positive,Neutral
-TXT_00913,@user Seriously. May as well just watch WWE at this point. At least you know it's a front. I mean Rousey vs. Holm? C'mon.,Negative,Neutral
-TXT_00917,@user woosahhhh it\u2019s Courtney! Long time no see from 1st lady!,Positive,Negative
-TXT_00919,"""14-Aug  The day of independence,  The day of Sacrifices of Muslims, The Victory of Pakistan, I proud to be a...",Neutral,Positive
+TXT_00919,"""14-Aug  The day of independence,  The day of Sacrifices of Muslims, The Victory of Pakistan, I proud to be a...",Neutral,Negative
+TXT_00932,"""Frank Gifford, Howard Cosell and """"Dandy Don"""" Meredith made Monday Night Football what it is. Rest in peace, guys. You were a hoot.""",Positive,Neutral
 TXT_00938,@user Or SJP\u2019s evil twin who\u2019s plotting to put out the sun.,Negative,Neutral
 TXT_00977,The ONLY line I will remember tomorrow is John Kasich's dad was a mailman..... Who the hell cares?!?!? @user,Negative,Neutral
-TXT_01008,"""My piece on Mehdi Hasan &amp; abortion on @user """"""""Yes, being pro-life does make you less of a lefty""""""""",Neutral,Positive
+TXT_01008,"""My piece on Mehdi Hasan &amp; abortion on @user """"""""Yes, being pro-life does make you less of a lefty""""""""",Neutral,Negative
 TXT_01019,Do #mets walk Harper if rendon gets bunt down?  Is Matt Williams under the weather? Pap in 8th facing bottom of order? Left storen out 2 dry,Neutral,Negative
-TXT_01039,May have smoked a blunt with Jay-Z at the @user show last nigh trying to remember..No big deal but i want his connect shits fire !!!,Positive,Neutral
+TXT_01033,Ricky Ponting was pulled out of a Sheffield Shield game on Friday with a hamstring injury.,Neutral,Negative
+TXT_01039,May have smoked a blunt with Jay-Z at the @user show last nigh trying to remember..No big deal but i want his connect shits fire !!!,Positive,Negative
 TXT_01046,"""Bad Blood is a v catchy song but the lyrics are such a """"omg he sat next to my bff at lunch instead of me"""" anthem.""",Neutral,Negative
+TXT_01060,"@user umm I'm in the debate right now. I'm looking at the Tribe party at the Hardrock on Thursday, Rave, Jouvert, scorch cooler fete""",Neutral,Positive
 TXT_01063,"""While MSNBC host Chris Matthews may be over the moon about John Kasich, seeing him as the most """"moderate"""" and...",Neutral,Positive
 TXT_01067,Like Miley said she didn't look into everything but she thought Nicki may have been subbing her but she didn't know for sure. Her words.,Neutral,Negative
+TXT_01068,Still time to ask Saturday Kitchen legend James Martin a question\u002c he\u2019s just given us the lowdown on Strictly,Neutral,Negative
 TXT_01074,"""\""""@FactsAboutMitt: @user falsely claimed he saw his father march with Martin Luther King Jr.  #Facts #Truth""",Negative,Neutral
 TXT_01077,"""Winter Jam coming up November 18th...TOBY MAC JUST ANNOUNCED AS HEADLINER! Only $10 at the door, no advance tickets needed!""",Positive,Neutral
 TXT_01085,"""wohooo! RT @user Kung Fu Panda 2 (in 2D & 3D, both with Indonesian subtitles) tentatively scheduled to open on Tues 16 August ^ISK""",Positive,Neutral
@@ -92,11 +92,9 @@ TXT_01090,I think Modi government may have diplomatic issue in disclosing black 
 TXT_01108,"""Floyd Mayweather may be filthy rich, but in the end and in the beginning you are nothing but a white man's bitch.""",Negative,Neutral
 TXT_01111,"""First Kim Kardashian tries to break the Internet and now this!The 35-year-old reality star launched her emoji app, Kimoji, on Monday and""",Positive,Neutral
 TXT_01124,"@user oh no haha, I meant he can't sign for Milan now, so Spurs may have more of a chance""",Neutral,Negative
-TXT_01129,Steve Jobs and Dr. King on the same level?!?! Nah... C\u2019mon Kanye..,Negative,Neutral
 TXT_01139,Why do I feel like National Hot Dog Day is the April Fools of food holidays? #wefullydontundertandhowhashtagswork,Negative,Positive
 TXT_01146,@user Yeah I\u2019m like\u002c 20 minutes from West Liberty. Text me the name of the stadium tomorrow. I\u2019ll put it in my GPS.,Neutral,Positive
 TXT_01147,"""Just tested my Moto G (2nd gen) for the 'StageFright' exploit and it is vulnerable, so I changed to a patched SMS app, and set as default.""",Neutral,Positive
-TXT_01168,Here in the Philippines\u002c Its November 2 and I was like where\u2019s my phone?! What is the time in LONDON?! #Excited #LittleThngs @user,Positive,Neutral
 TXT_01186,Finished filling out the FAFSA for this scholarship application. Hopefully it\u2019s processed before November 15\u002c \u2019cause I need it by then.,Positive,Neutral
 TXT_01196,Chris Evans Genre Radio Show 07.11.2015 Gothic music and other genres share if you like #goth #alternativemusic,Positive,Negative
 TXT_01201,Man\u002c I am going to change my vote based on Axl Rose\u2019s opinion said no one ever.  Politico: C\u2019MON MAN,Neutral,Negative
@@ -105,46 +103,38 @@ TXT_01214,so Harper is blaming Del Mar racing another meet for the summer meet's
 TXT_01226,@user only because Iron Maiden sat across from us kept looking at me like he wanted to kill me with his awful bare hands.,Negative,Neutral
 TXT_01229,"""The 2nd act released onto the FUTURE-ONE line up is the massive ORGAN DONORS! 30th November @ City Nightclub, Falkirk. #Nutcases""",Neutral,Positive
 TXT_01234,I just want to sleep and watch Netflix until Friday for Bulldog Bash... Is that so much to ask for?,Neutral,Positive
-TXT_01240,Crappity-crap! I'm always away when he comes to town! Paul McCartney to play ACC on Oct. 17,Negative,Neutral
-TXT_01262,@user I fux wit yo 3rd choice but Gifted Hands (the Ben Carson story) and Alex Haley\u2019s autobiography of Malcolm X my top 2,Positive,Negative
-TXT_01266,"@user @user @user - nothing new under the sun! History always repeats! @user - Brilliant article, thanks.",Positive,Negative
+TXT_01240,Crappity-crap! I'm always away when he comes to town! Paul McCartney to play ACC on Oct. 17,Negative,Positive
 TXT_01275,"""Milan must win this game. Doesn't matter how. They must win it. Otherwise, it's back to the Pippo days - being 8th in the league.""",Positive,Negative
-TXT_01276,Can't doubt Tom Brady against the Steelers this Thursday!,Positive,Neutral
-TXT_01280,Hulk Hogan says sorry for racist remarks caught on tape: Legendary wrestler Hulk Hogan issued an apology Friday after the National En...,Neutral,Negative
+TXT_01276,Can't doubt Tom Brady against the Steelers this Thursday!,Positive,Negative
 TXT_01298,#Climate - 'cutting it close' : A Warning from Islam by Bill McKibben via @user @user @user @user,Negative,Neutral
-TXT_01303,Vettel makes 6th engine change so will sit out qualy as he must start from pit row. Calls the rules stupid. I'm not sure he's wrong. #F1,Negative,Neutral
-TXT_01332,If got a pimple the size of Jupiter\u2019s 12th moon on my forehead! FML!,Negative,Neutral
+TXT_01332,If got a pimple the size of Jupiter\u2019s 12th moon on my forehead! FML!,Negative,Positive
 TXT_01344,Reading club dead. I see a trip to Barns &amp; Noble in the near future...as in tomorrow.,Negative,Neutral
 TXT_01390,awwww...i miss the 1st batch of Big Brother when I saw Nene...my God its been all ages already! #PBB10years,Neutral,Positive
 TXT_01396,@user u ok with the poster for tomorrow?  tea will be provided for you.. can you get to the cafe for about 6pm to sound check? Rosie x,Positive,Neutral
 TXT_01409,"Mass Mayor Puts Jindal On Blast - Bobby Jindal may not make the first Republican primary debate, but he has found ...",Neutral,Negative
 TXT_01411,Why won\u2019t NBC\u002c CBS\u002c ABC and CNN cover the breaking news in the Benghazi story? Information came out last Tuesday\u002c...,Negative,Neutral
-TXT_01412,4 the Record: Ryan Braun smacks 252nd career hr-1 more than Robin Yount; wild #Brewers Marlins Wed matinee; the story on #FOX 6 SPORTS 5P,Neutral,Positive
 TXT_01429,@user oo nga eh :( may picture sana ako with PREPIX!!!!,Negative,Neutral
-TXT_01438,"I have to decide am I going to go to a Madonna concert on Saturday. Could be interesting. That's gotta be a 3-4 hour show, right?",Positive,Neutral
 TXT_01439,"""And thank you for stopping by, Dustin Johnson. Maybe he just doesn't like Monday mornings.""",Neutral,Positive
-TXT_01440,"""14-Aug  The day of independence,  The day of Sacrifices of Muslims, The Victory of Pakistan, I proud to be a...",Neutral,Positive
+TXT_01440,"""14-Aug  The day of independence,  The day of Sacrifices of Muslims, The Victory of Pakistan, I proud to be a...",Neutral,Negative
 TXT_01442,"""Too Much Heaven by Bee Gees was the @user magazine Hot 100 No.1 hit on January 13,1979""",Neutral,Positive
 TXT_01445,@user he has missed Chiefs\u002c Saints and Vikings it was a 4 game sus and this game at Oak would be his 4th he can play Nov 11th,Neutral,Positive
 TXT_01446,@user If you are the same age as Mick Jagger than may I say you,Neutral,Negative
-TXT_01473,Wow Drew Peterson was just convicted on september 6th for murder of his 3rd wide and they never found the body of his 4th wide Smfh,Negative,Neutral
-TXT_01474,the only thing that i am afraid of if bernie sanders is president he may die in office,Neutral,Positive
+TXT_01474,the only thing that i am afraid of if bernie sanders is president he may die in office,Neutral,Negative
 TXT_01477,A very good maxim - one that Boko Haram had the privilege to enjoy during the Jonathan Administration &amp; may still!,Positive,Negative
 TXT_01479,"#day #God #known #Sunday #week Question and Answer #prayer #church""",Neutral,Positive
-TXT_01493,"""Heather is like the serpent in the garden trying 2 entice info from McBain! Michael Easton, dont ever go away that long! Watching Tues #GH.""",Negative,Neutral
 TXT_01495,LAKERS NOTEBOOK: Nash listed as doubtful for showdown with Clippers: Steve Nash and Kobe Bryant sat out ... #lakers,Negative,Neutral
 TXT_01501,I guess I should\u2019ve been out giving out books last night for World Book Day. Instead I sat in large dark room watching the Avengers assemble,Negative,Neutral
 TXT_01508,So Carly Fiorina is going to crash and burn. @user  #WakeUpAmerica ....NEXT...,Negative,Positive
-TXT_01516,This is aimed @ David Cameron - fight me. Meet me behind the bike sheds tomorrow @ 3pm sharp. B there or b square,Negative,Neutral
-TXT_01543,This is aimed @ David Cameron - fight me. Meet me behind the bike sheds tomorrow @ 3pm sharp. B there or b square,Negative,Neutral
+TXT_01516,This is aimed @ David Cameron - fight me. Meet me behind the bike sheds tomorrow @ 3pm sharp. B there or b square,Negative,Positive
+TXT_01539,explosive resistant passports!!! Charlie Hebdo shootings left ID card in the car. 9/11 plane hijacker's passports found. Paris c'mon.,Negative,Neutral
+TXT_01543,This is aimed @ David Cameron - fight me. Meet me behind the bike sheds tomorrow @ 3pm sharp. B there or b square,Negative,Positive
 TXT_01551,"The Great New York State Fair starts on August 27 and opens with concerts by Everclear, Eric Church and Rick...",Neutral,Positive
 TXT_01556,"""Rodgers: """"""""I've read we sent dossiers to the FA on Sterling/Sturridge &amp; having showdown talks with Hodgson on Sunday &amp; all sorts of rubbish""""""""""",Negative,Neutral
 TXT_01559,Parents in Zurich and going to Pride Parade tomorrow. I'm jealous :),Neutral,Positive
-TXT_01577,Who else thinks that the \u2019Little Things\u2019 video that premieres November 2nd is gonna beat Justin Biebers record?,Neutral,Negative
+TXT_01577,Who else thinks that the \u2019Little Things\u2019 video that premieres November 2nd is gonna beat Justin Biebers record?,Neutral,Positive
 TXT_01597,On this day in 2001 we lost George Harrison. November 29th 2001. #GeorgeHarrison #WhileMyGuitarGentlyWeeps,Neutral,Positive
 TXT_01602,"""A random homeless guy was married you, Justin Bieber may perhaps at this pointed invitation was not in nature.""",Neutral,Negative
 TXT_01620,"@user @user 1st time GD oppa praised VIPs in public,1st time other countries VIP jealous with M'sia VIP..and many many more...""",Positive,Neutral
-TXT_01652,@user @user @user Bias is prevalent at all levels. You don't want 2 find yourself on the Bubble on Selection Sunday #NCAA,Negative,Neutral
 TXT_01662,Chief Justice of India says he will constitute a bench to hear tomorrow Yakub's plea against death warrant @user @user,Neutral,Negative
 TXT_01669,Up to the 4th episode of True Blood 2nd season.  It gets better & better.,Positive,Negative
 TXT_01678,"""Just won a pair of @user  &amp; @user tickets for Ventura tomorrow , anyone want the extra tix?""",Positive,Neutral
@@ -155,60 +145,54 @@ TXT_01709,You are out of luck if you want to go to the BNP Paribas Open on Satur
 TXT_01725,"""Undertaker may, in fact, be killed tonight by Brock Lesnar. #SummerSlam""",Negative,Positive
 TXT_01729,"@user &amp; what if by g eazy, and  black Friday by Kendrick, and dark time the weeknd""",Positive,Neutral
 TXT_01732,Won two tickets to the White Sox game at a raffle . . . 2nd place was four tickets.,Positive,Neutral
-TXT_01763,Katy Perry and her people got it right with Last Friday Night,Positive,Neutral
+TXT_01745,Is there really any point in Dustin Johnson playing the 4th round of a major?,Neutral,Negative
 TXT_01777,"""Yakub's role in '93 March serial  blasts is repeated, but very little is said about those who organized 92 December, 93 January Mumbai riots""",Neutral,Negative
-TXT_01821,@user Reggie isn\u2019t interested in dealing picks like the old regime.  Can\u2019t see him parting with anything other than a 6th or 7th,Negative,Neutral
+TXT_01781,Our First FREE Yoga class at ElleWell is this Tuesday at 7:15pm with the lovely Julie Reynolds.  Register online...,Neutral,Positive
 TXT_01827,David Wright went 3-for-4 and played full game at third base for St. Lucie tonight. Due to be activated Monday.,Neutral,Positive
 TXT_01864,Take the 1st step in faith. You dont have to see the whole staircase\u002c just take the 1st step. ~Dr. Martin Luther King Jr. #quote,Positive,Neutral
 TXT_01879,"To quote Seinfeld's Kramer, Monday has a feel; Wed has a feel, and FRIDAY has a feel. Here's to feeling the first Friday of the school year!",Positive,Neutral
-TXT_01880,"@user He made her drive all the 10 hours up there Fri, Scotland pub crawl think it 3 hrs between cousins, back mon! Twat""",Neutral,Negative
 TXT_01882,@user @user nirvana may be the face of grunge but they didn't create it. Df may have many hands in but they aint 90% responsible,Neutral,Negative
+TXT_01889,Most annoying twat ever! But she brought Dunkin so I may just talk to her today...,Negative,Positive
 TXT_01905,I hope the Steelers CRUSH Tom Brady on Thursday. Damn cheater.,Negative,Neutral
-TXT_01912,Selling Day for a Night Free Press Passes Ft. Kendrick Lamar. $40 for 2 day pass. Kendrick performs tomorrow at 9:30 p.m. Hmu if interested,Positive,Neutral
 TXT_01920,"""FIRE IN THE ASHES: 25 Years Among the Poorest Children in America by Jonathan Kozol comes out Tues, avail for pre-order""",Neutral,Negative
 TXT_01937,Its done! My brother just got married...we turnin up at jett lounge tonight and at grannys house tomorrow,Neutral,Positive
 TXT_01946,First Lady Michelle Obama is a elegant and classy 1st Lady who presence touch the heart of us all #LoveMyPresident&amp;FirstLady @user,Positive,Negative
 TXT_01962,I'm gonna watch Nicki's opening tonight then watch the rest tomorrow,Neutral,Positive
-TXT_01966,If you missed it\u002c Secret Rebel Base celebrate May 4th by celebrating Ralph McQuarrie: #starwars #may4thbewithyou,Positive,Neutral
-TXT_01975,Dustin Johnson is just a walking disaster on Sunday's lately.,Negative,Neutral
-TXT_01980,NFL: Will No. 1 Overall Pick Jadeveon Clowney Play for the Houston Texans on Monday Night Football?,Neutral,Positive
+TXT_01966,If you missed it\u002c Secret Rebel Base celebrate May 4th by celebrating Ralph McQuarrie: #starwars #may4thbewithyou,Positive,Negative
 TXT_01988,The fact I probably won't see them again before march makes me want to cry #MTVStars The Vamps,Negative,Positive
-TXT_02015,"""Some kid sat down today and said """"make me look like nirvana"""" ... Like which person?""",Neutral,Negative
 TXT_02018,Am I the only one who doesn't care that Floyd Mayweather is fighting again on September 12th against Andre Berto....,Negative,Neutral
 TXT_02024,@user @user will be presenting on the 4th I will come we talk about some stuff,Positive,Neutral
-TXT_02031,@user @user @user it may have not been the best idea to name our Mascot the Beaver...still better than Ducks,Neutral,Positive
+TXT_02031,@user @user @user it may have not been the best idea to name our Mascot the Beaver...still better than Ducks,Neutral,Negative
 TXT_02043,"@user @user Ben Affleck is in EL cuz the students wanted him to be the """"""""surprise"""""""" guest at the Izzone campout tomorrow!""",Positive,Neutral
 TXT_02093,"""lol, all the people on the facebook live chat on Rock im Park are real idiot's. i explain them that Evanscence have performed on friday...""",Negative,Positive
 TXT_02102,only my cousin would get to go to kenny chesney and jason aldean twice lol see you friday @user,Positive,Neutral
 TXT_02103,@user my dad and I are going to Raleigh Saturday if you wanna go,Neutral,Positive
-TXT_02111,I'm really bored guys idk if you can tell I'm gonna have a Netflix marathon tomorrow suggest things I could watch,Positive,Negative
 TXT_02150,@user Today is not the death day of APJ Abdul Kalam's. He passed away on 27th. today is his janaja. its only Yakub's death day today.,Neutral,Negative
+TXT_02156,Men\u2019s latest bedroom worry: \u201950 Shades\u2019: E L James\u2019 \u2019Fifty Shades of Grey\u2019 may be supercharging the sex-drives o...,Negative,Neutral
 TXT_02159,I had a dream Aaron Samuels wasn't happy it was October 3rd.....,Neutral,Positive
 TXT_02178,"""awww man, Great Yorkshire Show has got cancelled. @user what are we going to do tomorrow now?""",Negative,Positive
 TXT_02198,Did you know that 'Ryan Braun' was Trending Topic on Monday 17 for 4 hours in Milwaukee? #trndnl,Neutral,Positive
 TXT_02204,Pray for a better day tomorrow. Maybe we will wake up and #Obama and #Extremist Muslims will be gone! #CCOT #TCOT,Neutral,Negative
+TXT_02208,I may have just dropped two letter grades of intelligence after listening to that Kanye West rant...,Negative,Neutral
 TXT_02213,Heading home to Ireland with 17 golfers from my club on Saturday staying at lough Erne resort and off to Dublin for some fun,Positive,Neutral
 TXT_02223,Just witnessed the 1st ever black king of Endymion,Neutral,Negative
 TXT_02236,@user People tweet a lot about Svengoolie on Saturday. It seems a lot like that with Sharknado!,Positive,Neutral
 TXT_02239,"""I think Mr. """"Mookie"""" may be confusing Muslims with Vampires #tytlive""",Neutral,Negative
 TXT_02250,WHEN I THINK OF YOU by JANET JACKSON was no.15 in the UK charts on 1 September 1986,Neutral,Positive
-TXT_02252,"""Day #12 - Monday, 11/12 - Thank a Veteran Day. Brave men and women who have served their country with honor surround us. Find a veteran t...""",Positive,Negative
 TXT_02267,Selling 2 upper box tickets for the Sam Smith show this November. Hit me up if anyone's interested.,Positive,Neutral
-TXT_02273,In January France declared day of mourning for 12 people killed at Charlie Hebdo. Today declares 3 days of mourning for 129 killed in Paris,Negative,Neutral
 TXT_02285,#NW Red Tails for the 1st time!!!,Positive,Neutral
-TXT_02301,@user Naruto better bruh DBZ cool and all but I'm a Naruto guy at heart lol Boruto the movie come out in November narutos son,Positive,Neutral
+TXT_02300,"""As of Monday the 22nd, we will have 15% off all compatible/ generic HP, Panasonic, Lanier, and Kyocera cartridges at",Neutral,Positive
 TXT_02303,@user madam sorry to say it is compulsion in Islam please read Holy Quran for guidance May Allah show the right path ameen,Neutral,Negative
 TXT_02326,see that dustin johnson is a co-leader right now. will take him serious if he is in top 3 on the final 9 sunday #pgachampionship,Positive,Neutral
-TXT_02331,@user I was supposed to go to the 30 Rock on Monday so I could buy some NBC stuff\u002c but my brothers were tired and we had to go home :(,Negative,Neutral
+TXT_02336,Most annoying twat ever! But she brought Dunkin so I may just talk to her today...,Negative,Positive
 TXT_02360,Frank Ocean album supposed to drop tomorrow.... Let's hope it's true,Positive,Neutral
 TXT_02364,"""\""""@FactsAboutMitt: @user falsely claimed he saw his father march with Martin Luther King Jr.  #Facts #Truth""",Negative,Neutral
-TXT_02370,"Let me know which games u want me to stream? KZ Sf, COD Ghosts or AW, I am Bread, Minecraft, Devil may cry, DCUO, Warframe? #PlayStation",Neutral,Negative
+TXT_02370,"Let me know which games u want me to stream? KZ Sf, COD Ghosts or AW, I am Bread, Minecraft, Devil may cry, DCUO, Warframe? #PlayStation",Neutral,Positive
 TXT_02375,depending how late we work tomorrow it'll be a nightmare getting back into WeHo from Downtown with SMB shut down for the Halloween Carnival,Negative,Positive
 TXT_02384,I'm just gonna Netflix and chill tomorrow again,Positive,Negative
 TXT_02386,All the talk will be about Nicki and Miley tomorrow. Nothing else has been talk worthy. #VMAs,Neutral,Negative
 TXT_02412,@user the Kendrick album may be the most overrated album of all time. It's a good album but very little replay value,Neutral,Positive
-TXT_02417,I mean I'm ok with watching randy Orton and Shia labeouf for 2nd period,Positive,Neutral
-TXT_02424,When you have 3 1/2 tests tomorrow and a lab to do but your iPad is dead so you can't do shit :):):):):):),Negative,Positive
+TXT_02414,"@user While you continue to beat a dead horse, Tom Brady is starting on Thursday night.""",Neutral,Positive
 TXT_02445,@user She may be my favorite Libertarian writer right now. Her response to the Planned Parenthood controversy was on POINT.,Positive,Negative
 TXT_02446,Guys will think twice about bringing their familiesGiants owner said Cowboys will get disease fir,Negative,Neutral
 TXT_02450,"""And thank you for stopping by, Dustin Johnson. Maybe he just doesn't like Monday mornings.""",Neutral,Positive
@@ -226,26 +210,25 @@ TXT_02563,Guest teaching  Super Saturday with Kris Gordon rocked! (@ Wisconsin A
 TXT_02570,"""Rodgers just confirmed that both Allen and Can are fit, and will be back in the squad for Sunday's trip to QPR. #LFC""",Positive,Neutral
 TXT_02574,"""Blog: Jets, Giants have extensive radio networks - So it's a Sunday afternoon, and your wife is adamant about draggi...",Neutral,Positive
 TXT_02582,"Reparations should be made, but c'mon Donald Trump is the LAST candidate to support if you want them.",Positive,Neutral
+TXT_02599,My soup just blew up in the microwave and exploded everywhere. So far today has been a bigger bitch than Madonna is to hydrangeas.,Negative,Positive
 TXT_02612,Gonna be at SM Sta. Rosa today 4pm with Krissy & October 17 with Jasmine Curtis\u002c Khalil Ramos & Enrique Gil @ MOA See youuuu,Positive,Neutral
 TXT_02617,"@user now, if Drake is a ghostwritten pawn, as insinuated, it may have come after he was dope a la Snoop Dogg. This may be overblown.",Neutral,Negative
 TXT_02664,We may see negative poll Numbers for most of the republican candidates by nov.. -11 Ted cruz -5 Scott walker -1 Jeb bush  LOL #MeetThePress,Neutral,Negative
-TXT_02727,@user U turn/hypocrisy whatever #AAPtards may say  Modi govt close to getting what we want from the Swiss .,Negative,Neutral
-TXT_02730,Starting off my sunday with Resident evil operation raccoon city,Neutral,Negative
+TXT_02693,Definitely should\u2019ve cast someone other than @user to play Drew Peterson...I wanted to be his 5th wife by the end of the movie. :/ #sexy,Neutral,Negative
+TXT_02730,Starting off my sunday with Resident evil operation raccoon city,Neutral,Positive
 TXT_02732,@user Jaa ik mag\u002c maareh kan je zaterdag stad? want heb die H&M card nog en die is t/m 29 april geldig X,Neutral,Negative
 TXT_02762,why? I really hope nintendo PAYS ATTENTION TO IT. but I do apologize in advance cause it's going to be annoying and I may loose followers,Neutral,Negative
+TXT_02793,"""Our Cameroun horror, by Boko Haram returnees  On August 3, Cameroonian authorities began the repatriation...",Negative,Neutral
 TXT_02821,The only time it is okay to discriminate towards Christians is with handing out presents on 25th December.  #refugeescrisis #auspol,Positive,Neutral
 TXT_02836,When you have to wait 15 for a table on a Friday morning at IHOP,Negative,Positive
 TXT_02860,@user 4th is just great bc it's like St Pattys just MERICA #canttouchthis,Positive,Negative
 TXT_02866,Federer Back For 16th US Open: Federer hopes his US Open first-round encounter against the Argentine goes much...,Positive,Neutral
+TXT_02878,"""Maryam Institute invites you to a special workshop on """"LOVE TO STAY: Marriage in Islam"""" THIS Saturday inshaAllah...",Positive,Neutral
 TXT_02882,Ravens sign Ricky Williams ohhhhh leeeeee dueeetttttt #blackbirdgang...they bout to smokeout the locker room tonight,Positive,Neutral
 TXT_02893,"""Wow, walk off win for the Cubs.....Kris Bryant HR with 2 outs in the bottom of the 9th inning""",Positive,Neutral
-TXT_02896,Mao\u2019s cult may have no place in China\u2019s future: As tension increased on the border with India in the early 1960\u2019...,Negative,Neutral
 TXT_02909,@user I'm thinking the same thing. They may try it like they did UCLA.,Neutral,Negative
-TXT_02915,can you believe it's the 13th and I still have unopened bags of Halloween candy???,Positive,Negative
-TXT_02921,"""It's been a hell of a week, Chuck Norris released a video that claims Obama's 2nd term will bring about armageddon.""",Neutral,Negative
-TXT_02941,Sulli is my 1st bias the one who brought me into Kpop. I will miss seeing her in F(x) &amp; I will still support her.,Positive,Negative
 TXT_02942,"""Jersey Friday, Danny elfman, does it get any better? @user @user",Positive,Negative
-TXT_02950,@user going to Berkmar game Friday ?,Neutral,Positive
+TXT_02947,"""Sibling-wed Game with Scott and Chris Evans, Part 2 La risa de Chris me dio risa, basta.""",Positive,Negative
 TXT_02951,Tennessee 7th graders assignment: Write &amp; Recite 'Allah is the only god' in 3 week focus on Islam in history class,Neutral,Positive
 TXT_02955,What the federal Judge fails to see that the #KimDavis name is on the form for Gay marriage that makes it a #1st She does not have to comply,Neutral,Negative
 TXT_02958,I just vaulted Jeb Bush up to 5th place in my rankings.,Neutral,Negative
@@ -260,57 +243,49 @@ TXT_03046,Why was Amazon Prime Day on the 15th? That's not a prime number. Shoul
 TXT_03048,Dishwasher repair canceled. ..sears coming out Tuesday...grrrr...can't wait to see Annabelle with David Misty...,Negative,Positive
 TXT_03049,"@user I put 'Do not take out or upload a 2nd time (for example Youtube, Vimeo, Tudou, Youku, etc)' its the same thing.""",Negative,Neutral
 TXT_03061,I know more about Islam than a lot of Muslims mate. And I've lived with Muslims and seen ISocs at universities.,Neutral,Negative
-TXT_03074,"""This @user fine thing sounds like the ejection rule in CFB. Yes the ejection may be called back, but hey, you still get the penalty!""",Negative,Positive
+TXT_03074,"""This @user fine thing sounds like the ejection rule in CFB. Yes the ejection may be called back, but hey, you still get the penalty!""",Negative,Neutral
 TXT_03080,"""Flying around the world for free sounds great, but this Rolling Stone profile may make you change your mind.",Neutral,Positive
-TXT_03084,So the #usa is awesome because all #Republicans are having gay marriages tomorrow!  #freedomofspeech,Positive,Negative
 TXT_03127,Jason Aldean Sunday with this beauty #sundayfunday #summernights #concertseason2015 is not over yet  #staytuned4more,Positive,Negative
 TXT_03137,I go on channel 7 to see what the weather is gonna be like tomorrow and   Taylor Swift singing.. #EEWWW #GETOFFMYTV,Negative,Positive
 TXT_03157,"""damn RIP to my great uncle George Clayton Johnson. 86 years. he wrote the 1st episode of Star Trek, twilight zone episodes and Logan's Run""",Neutral,Positive
 TXT_03165,Tom Brady may actually be a monster off the field.,Negative,Neutral
-TXT_03171,Waiting for a phone call off the head of Joseph Wright.  But I might have to go back to Benedicts tomorrow! :( #GodHelpMe,Negative,Neutral
 TXT_03197,I NEED to see Justin tomorrow at the today show but I can't skip class :(,Negative,Positive
 TXT_03204,Samsung confirms August 13 launch date for the Galaxy Note 5,Positive,Neutral
 TXT_03212,"""Rock Calendar 12-15-77: """"Saturday Night Fever"""" soundtrack, w/pulsing disco songs from Bee Gees and others, released a day ahead of the movie""",Neutral,Positive
-TXT_03234,"""This Friday night at The Warehouse, Dowtown Shreveport, 9 PM. Irene and the Sleepers, Super Water Sympathy, and COWBOY MOUTH!! Be there! RT!""",Positive,Neutral
 TXT_03246,#NW Red Tails for the 1st time!!!,Positive,Neutral
 TXT_03259,"""My wife said, after seeing this: """"I think my 15 year love affair with Tom Brady may be coming to an end""""",Negative,Positive
-TXT_03261,the 1st sentence i said at the til definitely wasnt in a Liverpudlian accent and i definitly didnt have to keep it for the whole transaction,Negative,Positive
 TXT_03272,Nationally Jeb Bush slips back to single digits in the RCP average of polls. Carson clear 2nd to Trump:,Neutral,Negative
 TXT_03273,Make your way to Hilton Hotel and grab your tickets for @user this coming Monday even make reservations via this link @user,Neutral,Positive
-TXT_03275,@user will you guys be open for the 7:45am Arsenal v Chelsea game on the 19th? I'll bring breakfast!,Neutral,Positive
 TXT_03289,Do you know who Paul Dunne is? He may make history tomorrow. Hear how! @user has details now!,Positive,Neutral
 TXT_03291,@user Rodgers has been down by 9 + in the 2nd half a total of SEVEN times. What a worthless article,Negative,Neutral
 TXT_03308,Boohoo Miley called Nicki unpolite KIM CALLED HER EVERYTHING UNDER THE SUN just admit NICKI KNOW WHO TO TRY,Neutral,Negative
-TXT_03356,"@user @user But he is shirking the gap between him and Eddie year by year. No one is catching Seinfeld, but he may catch Eddie.",Positive,Neutral
-TXT_03388,No mention of the IRA's encomium for @user during @user leadership election?,Neutral,Negative
 TXT_03397,"""I liked 'Helsinki, Finland - Nokia Factory Room - 10 November 2012 20:00' in the DJ Shadow App",Positive,Neutral
 TXT_03420,VIDEO: Fury as lion killer returns to work: There were angry scenes in Minnesota on Tuesday as the US de... (BBC),Neutral,Negative
-TXT_03467,@user Deathly Hallows Part II now become the 3rd High Grossing Movie in Worldwide All of time with $1.133M . Absolutely Amazing !,Positive,Neutral
+TXT_03438,"""For International Women's day, let's not forget trans*women and those who don't follow the gender binary!""",Negative,Neutral
+TXT_03442,"""Remember when I sat through that horrible show \""""""""Breakout Kings\"""""""" just because T-Bag? #worthit""",Negative,Neutral
+TXT_03480,"@user @user yeah, well I had Thor's hammer and helmet in the 5th grade. And Storm's cape. I still haven't grown up. LOL""",Positive,Negative
 TXT_03485,"@user &amp; what if by g eazy, and  black Friday by Kendrick, and dark time the weeknd""",Positive,Neutral
 TXT_03489,"""Carol, a period romance set in 1950s New York and starring Cate Blanchett, topped nominations for the Golden Globes on Thursday, as""",Negative,Positive
 TXT_03494,@user I won't be by my PS4 until tomorrow night at the earliest :(,Negative,Positive
-TXT_03517,@user U going to chalmers tomorrow?,Neutral,Positive
-TXT_03527,@user LOL! Schedule for today the 3rd of August: Visit Kim Hyung Jun's Birthday Party (G.O). Don't think so! xDDD,Positive,Neutral
+TXT_03500,[trans]TV shooting week started. 1st shoot tonight HEY HEY HEY live broadcasting. THSK will show u a new song! (a ...,Positive,Neutral
 TXT_03533,@user yes they seem to be in quite a mess at BCFC hope you beat Spurs tomorrow,Negative,Positive
 TXT_03544,"""Ant-Man ends this Thursday. See it before it goes. Plays daily at 1:15, 3:50, 6:40 &amp; 9:40 PM",Neutral,Positive
+TXT_03555,"""Just like the 2nd coming, am moving creepy - Hot Jam""",Negative,Neutral
 TXT_03610,@user Spend your Halloween night with US!!! Movie Night in Morris hall (phase2) !!!! TOMORROW!!!! FREE FOOD!!! GAMES AND MOVIES!!!!!!,Neutral,Positive
-TXT_03620,My playlist is going from Bryson tiller to Justin Bieber to August Alsina lmao,Neutral,Positive
 TXT_03629,Arian Foster / Arian Foster was limited in Thursday's practice with a groin #NFL #HOU,Negative,Neutral
 TXT_03642,Gonna watch Paper Towns for the second time on Monday,Positive,Neutral
 TXT_03644,"""When life gets eerie: my iTunes shuffle just started playing """"Big Brother"""" by Kanye West as I finish off Sunday's centerpiece story. Timely.""",Neutral,Negative
 TXT_03667,Aaron Brooks and Marcus Thornton combine to go 8-25 and we lose to the Bulls by 6. Everybody have a good Thursday.,Neutral,Positive
 TXT_03688,It may be significant to some of those who enjoy movies with a cult following but Sharknado is a disgrace to the film industry,Negative,Positive
 TXT_03690,George Osborne will on Tuesday reject calls for the UK to take part in latest Greek bailout: FT,Negative,Neutral
-TXT_03713,im so scared to fall asleep bc louis and danielle can be married and niall will date james and harry may move to germany with briana,Negative,Neutral
 TXT_03714,@user and I\u2019ll pull out the Kentucky Derby  picture from 9th grade. #blackmail,Negative,Neutral
-TXT_03717,does frank ocean still think it's july or sommin??,Neutral,Negative
 TXT_03728,James Franklin one ups Mark Dantonio in the bad play calling department by calling a fake punt on 4th and 11 #UMvsPSU,Negative,Neutral
 TXT_03731,"@user @user Not just Christians, you are in the prayers of """"all of us"""" humans.May you stay safe and be free soon!God bless.""",Positive,Negative
 TXT_03743,Driving from Milan to Lake Como tomorrow. Positively shitting it that I will go the wrong way round a roundabout.,Negative,Neutral
 TXT_03744,@user Harvey and Shawn have put me on the no access list along with Bo and Carl Pelini. Otherwise I'd be there tomorrow.,Negative,Neutral
 TXT_03758,My worst day was my mom finding my 8th Grade iPod. Reading the band names was like reading charges at a trial. An indictment of my bad taste,Neutral,Negative
-TXT_03770,I just hope Ian Bennett is first out of the selection machine tonight #terrierball #htafc #dontfancyArfieldingoal,Positive,Negative
-TXT_03772,Weird music mood today . Lots of Hank Williams and Johnny Cash running through the iphone.,Negative,Neutral
+TXT_03770,I just hope Ian Bennett is first out of the selection machine tonight #terrierball #htafc #dontfancyArfieldingoal,Positive,Neutral
+TXT_03772,Weird music mood today . Lots of Hank Williams and Johnny Cash running through the iphone.,Negative,Positive
 TXT_03785,keep thinking its Tuesday &amp; get excited because Styled To Rock will be on then I realise it's only Monday &amp; I have to wait till tomorrow:(((,Negative,Positive
 TXT_03788,@user I may have missed it if u posted it but what's ur take on #KimDavis situation &amp; @user claims about SCOTUS ruling,Positive,Negative
 TXT_03792,"""Hahaha 2nd place in Miss USA was Miss Texas from @user , wonder if the organization just placed her there just for being Mexican""",Negative,Positive
@@ -328,50 +303,48 @@ TXT_03884,@user Oh\u002c I got ham. And I ate Reggie\u2019s ham. And I ate Brian
 TXT_03888,"""#TheNext is on the CW Network in 30 minutes! You may already be in front of the tube, so tune in and support @user w/us!""",Positive,Neutral
 TXT_03896,"""I bet you on Friday, Calibraska is going to be trending""",Neutral,Positive
 TXT_03906,I couldn't go to MetLife so I'm going to a concert on the beach tomorrow lol #MTVHottest One Direction,Neutral,Positive
-TXT_03917,David Price may not pitch here again until September by my calculations? So if you missed August 3rd then get there August 14th #bluejays,Neutral,Negative
-TXT_03934,Sat for 3 hours in a restaurant to watch Rousey for 34 sec. &amp; I would do it again!!! #Rousey #BestFight @user @user,Positive,Neutral
-TXT_03943,Quevega looks plenty short enough at 11-10 for the World Series Hurdle at Punchestown on Thursday. Would much prefer Voler La Vedette @ 3-1.,Positive,Neutral
+TXT_03942,Wish FIFA would make league results and tables a bit more realistic. Man Utd in relegation zone after 15 games and Aston Villa in 2nd.,Positive,Neutral
 TXT_03954,Serbian President to Visit Pope Francis on Friday: Serbian President Tomislav Nikolic will meet with Pope Fran...,Positive,Neutral
-TXT_03962,6th floor. David Mack assaults Jennifer Lawrence with a hemorrhoid. Amitabh Bachchan mows Lisa Kudrow all the while.,Negative,Positive
+TXT_03962,6th floor. David Mack assaults Jennifer Lawrence with a hemorrhoid. Amitabh Bachchan mows Lisa Kudrow all the while.,Negative,Neutral
 TXT_03966,"""So, tomorrow's Dark Souls video that I just recorded might be the most confused I've ever been on video.""",Negative,Positive
-TXT_03967,Nokia n95: solidly hand out until the ides of march.: UvQEDAk,Positive,Negative
+TXT_03967,Nokia n95: solidly hand out until the ides of march.: UvQEDAk,Positive,Neutral
 TXT_03971,"Keep in mind, Hillary's initial refusal to apologize wasn't off the cuff. It came after months of scrutiny.",Neutral,Negative
 TXT_03974,Anonymous to Wikileaks: We\u2019re more interested in transparent govts & bringing out info they want to hide from public.,Positive,Neutral
 TXT_04010,@user @user @user  Nothing wrong with a little Iron Maiden on a Saturday night.,Positive,Neutral
 TXT_04015,Jim Luxford of East York with Calendar #1381619\u002c our 1st $5\u002c000 Daily Winner for September 11!,Positive,Neutral
 TXT_04055,Everyone in the Summersville area come watch our game tomorrow at Nicholas County!!,Positive,Neutral
-TXT_04064,I've watched three films this weekend with Anna Kendrick in it and its only Saturday. No regrets.,Positive,Neutral
 TXT_04080,Real Madrid are the most corrupt club in the world... So this ain't a surprise!!!,Negative,Positive
 TXT_04095,"""Stylistically this is a horrible match up for Rousey, look at the stats. I won't be surprised if Rousey takes the L in January #UFC195""",Negative,Neutral
 TXT_04134,I have too many books to read.  Grey Cloud Atlas Twilight  Harry Potter 2nd Gen! How I Live Now If I stay Don't make me think,Positive,Negative
 TXT_04143,Brilliant Steve Bell cartoon on David Cameron and the refugee crisis,Positive,Negative
 TXT_04156,"""Hannibal"" may have ended but you can still express your love for your ""murder husband"" and Hannibal with this...",Neutral,Positive
 TXT_04163,"""The main games I remember actually getting new was the 2nd Pokemon Mystery Dungeon , Bioshock 2, and Dark Souls 2""",Neutral,Positive
+TXT_04168,@user watching the Trayvon episode I recorded. The Martins are incredibly strong & I am so sorry for their loss May God bless them #rip tm,Negative,Positive
 TXT_04169,Buses to replace train services on Sunday as fans flock to the National Bowl to see Foo Fighters | oneMK,Neutral,Positive
-TXT_04175,I don't wanna see Ice cube son re do all ice cube parts.I saw Boyz in da hood 2.A remake of Friday.What's next.All about the Benjamin's 2?!,Negative,Neutral
+TXT_04175,I don't wanna see Ice cube son re do all ice cube parts.I saw Boyz in da hood 2.A remake of Friday.What's next.All about the Benjamin's 2?!,Negative,Positive
 TXT_04198,"""#Superdeporte: Giannelli Imbula not impressing at Porto. The Portuguese club may consider a sale. Milan in the front, but also Valencia.""",Negative,Neutral
+TXT_04201,Sept 1: PS4 game consoles may experience issues accessing certain network services. IT is aware of the issue and is actively working on it.,Neutral,Positive
 TXT_04208,@user That was the revelation I mentioned on sunday evening. I am still in Abj. How are u & where have u been again?,Positive,Negative
 TXT_04228,"""RT @user @user I'm going to the Arsenal ladies v Everton tonight, I'm nervous already. #FAWSL""",Negative,Positive
 TXT_04235,"""3rd day of Eid, Eid Mubarak dears all.",Positive,Neutral
 TXT_04241,"""Federal Reserve sticks with stimulus: The Federal Reserve made no major policy changes Wednesday, deciding to stick to its plan of st...""",Positive,Negative
 TXT_04252,"As you may know I'm no lover of David Cameron, however his decision to authorise drone attacks to kill British terrorists was #SpotOn",Neutral,Negative
 TXT_04260,"""it's august 8th and still no Frank Ocean album, when will this terror end""",Negative,Neutral
-TXT_04278,Who wants to go to rugby practice with me Saturday?,Neutral,Negative
-TXT_04296,Wow Drew Peterson was just convicted on september 6th for murder of his 3rd wide and they never found the body of his 4th wide Smfh,Negative,Neutral
 TXT_04308,@user  The Sun: Paolo Di Canio says beating Aston Villa tonight would be like having sex with Madonna. #legend,Negative,Neutral
 TXT_04317,@user Do you mean you come here or me go to you? I can only afford to go out 1 night cause i\u2019m going to Amsterdam on Monday x,Negative,Neutral
 TXT_04318,who are you tomorrow #VideoMTV2015 Fifth Harmony #MTVStars Lady Gaga,Neutral,Positive
+TXT_04320,"""Rousey gon get schooled by the preachers kid, ya diggggg???",Neutral,Negative
 TXT_04328,@user I never said it is. But the SCOTUS ruled that the 14th Amendment requires a state to license a marriage of same sex couples,Neutral,Negative
 TXT_04363,Carson Smith notched his 4th blown save after giving up two runs in the ninth against the White Sox.  This may have a bad ending. #Mariners,Negative,Neutral
 TXT_04374,@user @user @user @user Yeah when Ric Flair goes I may cry that day,Neutral,Negative
 TXT_04378,@user  Alex Kim Kardashian worth how to love Kim Kardashian she's so bad Sun Conure to,Negative,Positive
-TXT_04398,"@user @user But he is shirking the gap between him and Eddie year by year. No one is catching Seinfeld, but he may catch Eddie.",Positive,Neutral
-TXT_04415,Crappity-crap! I'm always away when he comes to town! Paul McCartney to play ACC on Oct. 17,Negative,Neutral
+TXT_04402,"""It's only the 4th minute but Eden Hazard already knows he made the wrong decision, hehe #MUFC #BPLonFOX""",Negative,Neutral
+TXT_04415,Crappity-crap! I'm always away when he comes to town! Paul McCartney to play ACC on Oct. 17,Negative,Positive
 TXT_04428,"""Kanye West, 4th member of the new day. Kan-ye sucks.""",Negative,Neutral
 TXT_04452,Y'all want Kanye West to die 1st to appreciate him?,Neutral,Negative
-TXT_04464,".@JenniferJJacobs: Rick Perry: A young 1st term senator put country's economy and foreign policy in the ditch, time for experienced leader.",Neutral,Negative
 TXT_04482,Hey guys...David Price starts for the Blue Jays tomorrow...,Neutral,Positive
 TXT_04520,Trill young savage finna walk around the crib naked tomorrow tho. Best believe!,Positive,Neutral
+TXT_04531,SACK! Jamal Wilson with a SACK of Chris Brown! 3rd down coming up,Positive,Negative
 TXT_04554,"""focus on the fact that we have to get Calibraska to #1 tomorrow, not on petty drama lol""",Neutral,Positive
 TXT_04555,"""Tim Chaisson is heading out on an Australian Tour with his first stop in Newcastle, NSW on the 13th. His new tour...",Positive,Neutral
 TXT_04557,@user I'm glad he reneged on 4th group. Israel got no credit for first 76 released and Abbas didn't come to the table in good faith.,Neutral,Positive
@@ -380,7 +353,6 @@ TXT_04562,"""3rd day of Eid, Eid Mubarak dears all.",Positive,Neutral
 TXT_04571,"""Roll call: who's going to the Foo Fighters show tomorrow? I'll be there with my mom, who will tell me to ease up on the beer, JUSTINE RUTH.""",Positive,Neutral
 TXT_04579,Show me your 7th grade literature term paper on Iron Maiden lyrics so I know it's real.,Neutral,Positive
 TXT_04583,50 years ago tomorrow. Really??? Why the Beatles' Shea Stadium Show Was Even Greater Than You Knew | Rolling Stone,Positive,Negative
-TXT_04586,"""Report: Michael Dyer stopped in March with gun, marijuana by unusually understanding state trooper: Sunday, Arka...",Negative,Neutral
 TXT_04589,@user Your review reminded me I still need 2 read the very 1st Percy Jackson book! Heroes of Olympus is an offshoot series from it?,Neutral,Positive
 TXT_04603,"""Piers Newbery : @user  Murray breaks back in the 3rd, huge roar, crowd loving it. Not sure Lamps expe......",Positive,Neutral
 TXT_04627,What if yall catch me on WorldStarHipHop tomorrow bc iGet arrested at the K.L. concert for trying to rape him thoo ._____.,Negative,Neutral
@@ -389,6 +361,7 @@ TXT_04649,Steve Jobs Film Bombs At the Box Office: Director Bizarrely Blames Dav
 TXT_04653,Might be going for the LSU game Saturday!,Positive,Neutral
 TXT_04677,"@user haha no, the first was just Barca and then I put the ""|"" just to separate for my 2nd club",Positive,Negative
 TXT_04689,Harry Kane may be a noble prince but he can't score goals without his army behind him aka WHY IS KANE ALWAYS ALONE UP FRONT CMON GUYS UGH,Neutral,Negative
+TXT_04690,Its November already.. Christmas will be here soon\u002c then New Year\u002c then Valentine\u2019s day then GRADUATION?!?!,Neutral,Positive
 TXT_04696,@user @user @user the States ensured SCOTUS could take this action by enacting 14th Amendment,Neutral,Negative
 TXT_04699,I was a Donald Trump supporter for PResident but then I heard John Kasich make some good point so now so I switched - said no one tomorrow,Neutral,Negative
 TXT_04700,"""New Daily reported on the 5th that Lee Soo Man's wife passed away, succumbed to an illness.""",Negative,Neutral
@@ -400,42 +373,46 @@ TXT_04726,I hope the Steelers CRUSH Tom Brady on Thursday. Damn cheater.,Negativ
 TXT_04727,"""Directioners may be big on Twitter but when the voting goes out to the whole world, they lose. Kpop has a bigger fandom #DirectionersFuneral""",Neutral,Negative
 TXT_04742,Damn I forgot to go off on Bernie Sanders supporters today. I guess I'll just hold off until tomorrow,Negative,Positive
 TXT_04761,Joe Biden may just be the answer to stoping the family entitlement in U.S. politics if Martin O'Malley doesn't succeed. Run Joe Run!,Positive,Negative
+TXT_04771,Well with Zayn joining ISIS it is hard to maintain their family friendly image.,Negative,Neutral
 TXT_04790,....which unfortunately didn't happen but India's Dawood funded ecosystem is trying its best to 2nd guess the judicial system to save Yakub.,Neutral,Negative
 TXT_04797,Tom Brady is the NFL's favorite child! He could rob a bank and STILL suit up on Sunday!,Positive,Neutral
 TXT_04802,Again-just like #Windows 8- @user makes 10 w/o the start menu their best customers want - 3rd party app needed,Negative,Positive
 TXT_04814,If Katy Perry don't wan to be my Angel it's OK. My Parents send the 2nd selected one as my Angel... Your Son King Devil,Neutral,Negative
 TXT_04822,@user yes they seem to be in quite a mess at BCFC hope you beat Spurs tomorrow,Negative,Positive
-TXT_04893,What a prime knob cheese sat next to me on the tube talking extra loudly on the phone about a new show he's pitching to the BBC. Jog on.,Negative,Neutral
+TXT_04893,What a prime knob cheese sat next to me on the tube talking extra loudly on the phone about a new show he's pitching to the BBC. Jog on.,Negative,Positive
+TXT_04904,Most annoying twat ever! But she brought Dunkin so I may just talk to her today...,Negative,Positive
 TXT_04905,I've been asked to inform you that this was a joke and I definitely haven't had a copy of Frank Ocean's album since July 15. It's not true.,Neutral,Negative
-TXT_04921,Jesus Shuttlesworth Heat Vs Lakers Ralph McQuarrie #top100femalelies Is Lamar Odom really going to the D League ?http://t.co/Mz75m6JH,Neutral,Positive
 TXT_04936,Arian Foster / Arian Foster was limited in Thursday's practice with a groin #NFL #HOU,Negative,Neutral
 TXT_04956,If you're free Friday night after the Jason Aldean concert text me and let me know. Throwing a party.,Neutral,Positive
 TXT_04965,The Foo Fighters noise will be so annoying on Saturday trying to watch the football,Negative,Positive
 TXT_04979,RT @user ESPN MLB Cameron Maybin starting to see the sun,Neutral,Positive
 TXT_04983,T.O.P is a famous artist and actor from South Korea. He is born in 4 November 1987 with a real name\u002c Choi Seung-hyun,Positive,Neutral
 TXT_05005,hbsbhsdv might be going to see sweeney todd in west end on monday! Imelda Staunton!!!,Neutral,Positive
-TXT_05017,Kim Kardashian launches Kimojis including image of her bum: It may just be the ideal last-minute... Daily Mail UK,Positive,Negative
+TXT_05007,[trans]TV shooting week started. 1st shoot tonight HEY HEY HEY live broadcasting. THSK will show u a new song! (a ...,Positive,Neutral
+TXT_05015,"""Congressman Dennis Kucinich (D-Ohio), who lost in the recent Ohio primary election on March 6th, due to...",Negative,Neutral
+TXT_05017,Kim Kardashian launches Kimojis including image of her bum: It may just be the ideal last-minute... Daily Mail UK,Positive,Neutral
 TXT_05026,@user but I kept trying to tell people starting on April 1st 1994 that I knew Kurt Cobain was going to die.,Neutral,Negative
-TXT_05067,Boris enjoyed the view perched on top of bushels of apples at this past Sunday's Haunted Market. Boris is a...,Positive,Neutral
+TXT_05029,Dark Souls kicked my ASS tonight. Called it an early night. Sent the #Kreygasm raid over to  See ya Tomorrow &lt;3 !!!,Positive,Negative
 TXT_05074,Going to Healthy Kids Day: Cover the Kids ... at Boys & Girls Club - Teichert Branch on Sat\u002c Nov 3,Neutral,Positive
 TXT_05085,So u tx me and ask if I can spend the night.Haha I DON'T EVEN KNOW U (Kevin hart voice) haha,Positive,Negative
 TXT_05091,"Granted, I'm comparing it to giving birth to our 2nd kid, but I'll add my ""Well, that was anti-climactic"" to the pile re: Amazon Prime Day.",Negative,Positive
 TXT_05099,@user @user Seth Rollins great match with Neville on Monday night raw very entertaining match,Positive,Neutral
 TXT_05123,All my friends are going to the Sam Smith concert tomorrow and I got offered a ticket but ya girl ain't got $145 so I'm maddddd,Negative,Positive
-TXT_05139,All I want in life is to meet Niall tomorrow but I'm 10000% sure that won't happen,Negative,Neutral
+TXT_05137,"@user little, it goes on Netflix on October 5th I think!!!",Positive,Neutral
+TXT_05144,The big day is TOMORROW! Mau XTERRA World Championships at the Ritz Carlton at 9:30AM!,Neutral,Positive
 TXT_05147,@user u ok with the poster for tomorrow?  tea will be provided for you.. can you get to the cafe for about 6pm to sound check? Rosie x,Positive,Neutral
 TXT_05154,"""Now I gotta cut loose, footloose, kick off the Sunday shoes. Please, Louise, pull me off of my knees."" - Kurt Cobain 1967-1993",Neutral,Negative
 TXT_05165,"""State has the week off, but Ole Miss may have a hard-fought game coming with the Volunteers. Dixon has the rundown:",Neutral,Positive
-TXT_05182,Cowboys game this sunday and I dont even like the cowboys lol,Negative,Neutral
+TXT_05178,Anyone wanna go to a gillie da kid concert sept 30th? Young savage and haddy are gonna be killin it too,Positive,Neutral
 TXT_05203,"To quote Seinfeld's Kramer, Monday has a feel; Wed has a feel, and FRIDAY has a feel. Here's to feeling the first Friday of the school year!",Positive,Neutral
 TXT_05213,going to scream and laugh extra loudly tomorrow at Disneyland with starli,Positive,Neutral
+TXT_05230,I miss the 1st season of AHS,Positive,Negative
+TXT_05242,"@user Falkirk sounds class my man! Fri or sat? Edinburgh derby on Sunday, fancy it? Might have a spare ticket #SingleLAD""",Positive,Neutral
 TXT_05260,"@user May I pause or not pause and call it brain surgery? Kim Kardashian has more truthiness than Dr.Carson. 4%, reminds me of Uncle Joe""",Neutral,Negative
 TXT_05298,Monsanto's Roundup not good for you #Monsanto,Negative,Positive
 TXT_05305,The only time it is okay to discriminate towards Christians is with handing out presents on 25th December.  #refugeescrisis #auspol,Positive,Neutral
-TXT_05322,@user @user Negative! 90\u2019s would be the Poetic Justice look or how they dressed in Friday.,Negative,Neutral
 TXT_05333,For every Ebola fearing westerner who is concerned about the ever present threat,Neutral,Negative
 TXT_05341,uhh Oracle if there is no spoon what am I eating this 4th can of Spaghettios with?,Neutral,Negative
-TXT_05350,Mao\u2019s cult may have no place in China\u2019s future: As tension increased on the border with India in the early 1960\u2019...,Negative,Neutral
 TXT_05356,"""Wait, who's that running into the debate? It's... It's Hulk Hogan as the 18th Candidate! And he just clobbered Jeb with a chair #GOPDebate""",Neutral,Negative
 TXT_05357,"""David De Gea&amp;#039;s girlfriend """"very disappointed"""" after Real Madrid move collapses at the 11th hour #plfans""",Negative,Neutral
 TXT_05386,Friday has arrived. I have to admit that Rebecca Black\u2019s song doesn\u2019t sound so lame when it\u2019s actually Friday.,Positive,Negative
@@ -445,42 +422,41 @@ TXT_05419,"Serena dominated in the end, a tough match for the win!",Positive,Neu
 TXT_05431,World should appreciate incredible restraint Israel is showing in the face of repeated attacks against its citizens!,Neutral,Negative
 TXT_05454,I have a chemistry midterm tomorrow so naturally I just watched four episodes of Gilmore Girls,Neutral,Positive
 TXT_05463,Kaylee bet I wouldn't get my tweet on sharknado and she may be right,Neutral,Negative
-TXT_05474,"""I got the practice CAHSEE tomorrow at school. dear practice CAHSEE, can you not. sincerely, me.""",Negative,Neutral
 TXT_05477,@user you a Pats fan yet after seeing the best in the business on Sunday?,Neutral,Positive
 TXT_05480,@user YUP. And did you watch Degrassi from friday yet? looool awkward campbell,Negative,Positive
 TXT_05501,"""Everyone came to the VMAs looking boring or like trash (from what I see so far), and then Nicki showed up looking like a sun goddess.""",Neutral,Positive
 TXT_05504,You may feel you\u2019re alone\u002c But I\u2019m here still with you. You can do what you dream Just remember to listen to the rain ~by: Amy Lee,Neutral,Positive
 TXT_05518,Then everton will get the player from Barca on loan :),Positive,Neutral
-TXT_05521,"""May I know what is your IQ score?I just had a bet on who has a better IQ, you or Rahul Gandhi?",Negative,Neutral
 TXT_05535,I cant hire the Honey Badger to mow my lawn now...but sounds like he may be better suited to be a weed eater.,Neutral,Negative
-TXT_05541,6th floor. David Mack assaults Jennifer Lawrence with a hemorrhoid. Amitabh Bachchan mows Lisa Kudrow all the while.,Negative,Positive
+TXT_05541,6th floor. David Mack assaults Jennifer Lawrence with a hemorrhoid. Amitabh Bachchan mows Lisa Kudrow all the while.,Negative,Neutral
 TXT_05601,The Brick$quad is the Yankees of 8th period English III with Doc Caputo. #targetonourbacks #hatedbyall #champions,Negative,Neutral
-TXT_05612,4 the Record: Ryan Braun smacks 252nd career hr-1 more than Robin Yount; wild #Brewers Marlins Wed matinee; the story on #FOX 6 SPORTS 5P,Neutral,Positive
 TXT_05614,@user Yeah your game against The Ravens was a Thursday night game. Im sure you will pull for The Giants these next 2 games,Neutral,Positive
 TXT_05615,"""Assad continues to bombard #Homs, 4 the 17th consecutive day, mobile ntwrks off 4 the 4th day, mjr battles around Baba Amr #Syria""",Negative,Neutral
 TXT_05624,Scott Walker repeatedly avoided whether he would deport children born in the USA. Maybe didn't get to the 14th Amendment b4 he quit college.,Neutral,Negative
-TXT_05631,@user Good morning! Do you come up as North as Plant City for the shows? We will be at the Nov 17th show.,Positive,Neutral
 TXT_05647,"""-Puts Black Hole Sun on in the car-  My Dad asks my Mom who plays this song  Mom: The Beatles? No wait, David Bowie!  -.-;; #oww #facepalm""",Negative,Positive
 TXT_05655,"""You March to Aso rock and Super Eagles play football match in Abuja stadium get it right people, if you play with matches you get burnt""",Neutral,Positive
 TXT_05660,#Sport - Floyd Mayweather puts in more hard work and dedication ahead of September fight before posing with a...,Positive,Neutral
-TXT_05668,Rousey vs. Holm may be the biggest waste of a UFC card I've ever seen.,Negative,Neutral
+TXT_05663,@user @user I may be a career college student trying to get my Bachelor's degree too! Unless you'd like to write me a check for 50k,Neutral,Positive
+TXT_05668,Rousey vs. Holm may be the biggest waste of a UFC card I've ever seen.,Negative,Positive
 TXT_05671,"""I could be going to see Foo Fighters tomorrow night. But no, I just HAAD to play for church... X'D D':""",Negative,Positive
 TXT_05709,Eric Church plays new *never heard before* song about his son in Nashville July 30th. Performance HERE,Positive,Neutral
 TXT_05732,Sharks in 2nd place on the Currie Cup log behind the Lions. Geuss whos last...Bulls haha,Positive,Neutral
+TXT_05739,"""LOL. So Haryana has a day off tomorrow because it\u2019s \""""""""Haryana Day\"""""""".""",Positive,Neutral
 TXT_05740,"""Just out of curiosity, why doesn't Dean Ambrose have a match Sunday? And why did we get gypped out of seeing him wrestle tonight?""",Neutral,Negative
+TXT_05753,"@user my daughter will be there tonight, she's had a rough time - wld you dedicate a song to her? Her name is Tegan, 19 on Monday""",Positive,Neutral
 TXT_05761,Funding received from CoE to organise national seminar on state of youth work in UK 15 & 16 Nov at DMU. Inbox if u can add value to it,Positive,Neutral
 TXT_05771,"""Kanye West, 4th member of the new day. Kan-ye sucks.""",Negative,Neutral
 TXT_05776,Saturday without Leeds United is like Sunday without a Sunday dinner it doesn't feel normal at all (Ryan),Negative,Neutral
-TXT_05783,Twilight - Sauble Beach has just become my 13th picture to record 300 views.,Positive,Negative
+TXT_05783,Twilight - Sauble Beach has just become my 13th picture to record 300 views.,Positive,Neutral
 TXT_05787,Tracking Texas A&M Football Players in the 2012 NFL Draft: Texas A&M may have the biggest surprise of the 2012 N...,Positive,Neutral
-TXT_05808,"@user Bitch I'm Nicki you Iggy, I'm Romans Revenge you Black Friday, I'm Nickis Flawless you Lil Kim's Flawless, I'm Tink you Chanel West""",Neutral,Negative
+TXT_05808,"@user Bitch I'm Nicki you Iggy, I'm Romans Revenge you Black Friday, I'm Nickis Flawless you Lil Kim's Flawless, I'm Tink you Chanel West""",Neutral,Positive
 TXT_05811,"@user haha """"the thing is good sir, tomorrow Caitlyn Jenner will be a woman, but you will still be an idiot.""""",Negative,Positive
 TXT_05822,Scott Walker wants a wall between USA and Canada  Pull the Ottawan. I'll have Nunavat. Yukon not be serious.,Neutral,Negative
 TXT_05828,@user wall to wall people on the platform at South Norwalk waiting for the 8:08. Thanks for the Sat. Sched. Great sense,Negative,Positive
-TXT_05842,Catch up with Naruto and watched a few movies today! Friday well spent!,Positive,Neutral
+TXT_05845,"""I know it's just preseason but do I still get free Dunkin tomorrow, or nahhhh?""",Neutral,Positive
 TXT_05851,"""Gon listen to the Curtis tape tomorrow, might make it a full G-Unit Monday matter fact""",Positive,Neutral
 TXT_05855,Ay @user u should go 2 the UFC fight in November when @user detroys Dos Santos... Mexico vs. Brazil!. What u think?,Positive,Neutral
-TXT_05856,"""This @user fine thing sounds like the ejection rule in CFB. Yes the ejection may be called back, but hey, you still get the penalty!""",Negative,Positive
+TXT_05856,"""This @user fine thing sounds like the ejection rule in CFB. Yes the ejection may be called back, but hey, you still get the penalty!""",Negative,Neutral
 TXT_05858,"Friday night home alone - it started Fleetwood Mac, it's gone Afghan Whigs. I'm nothing if not predictable",Positive,Negative
 TXT_05861,"""CIT is bludgeoning the Feb-Apr 2013 programme into shape. Mighty things in store for visual artists, theatre makers, writers & more.""",Positive,Neutral
 TXT_05877,"""Breaking news: AHS Varsity Singers has moved from 26th to 25th nationally! Way to go Auburn! #startedfromthebottumnowwe'rehere",Positive,Neutral
@@ -491,15 +467,18 @@ TXT_05927,"I just saw a commercial that said Jurassic World opens Friday, am I m
 TXT_05929,"""RT @user @user I'm going to the Arsenal ladies v Everton tonight, I'm nervous already. #FAWSL""",Negative,Positive
 TXT_05960,@user Ah\u002c maybe you also prefer Zulu. Thanks\u002c no relation! But where\u002c Exeter? Btw the 4th emergency service is the Coastguard.,Positive,Negative
 TXT_05976,De La Soul is Sunday at Clockenflap?! WTF! At least they had the decency to sched Uptown Rockers for Saturday @user #NYinHK,Negative,Neutral
+TXT_05994,Hope the BBC is mistaken in its forecast for snow on Saturday...,Positive,Neutral
 TXT_05996,@user no problem. Are you going to be at the Rising Stars game on Saturday?,Positive,Neutral
+TXT_06013,Its November already.. Christmas will be here soon\u002c then New Year\u002c then Valentine\u2019s day then GRADUATION?!?!,Neutral,Positive
 TXT_06015,#SaudiCoalitionDividingUmmah  If today it's Iran tomorrow it can be Pakistan  Don't let America win by its divide and rule again,Neutral,Negative
-TXT_06023,Whoo! Clippers won the season opener! The Lakers are now 0-2. The Battle of L.A. starts Friday. Let's go! :) #ClipperNation,Positive,Negative
 TXT_06028,Cba with work tomorrow! #Boring #Blag,Negative,Neutral
 TXT_06033,Carles Puyol could be out for up to 6 weeks after straining knee ligaments. Further tests on the Barca man tomorrow -,Negative,Neutral
+TXT_06041,this nigga @user just hit a full court one handed shot with brook lopez...smh\u002c 21st birthday shit,Negative,Positive
+TXT_06042,Glad its Friday\u002c but I wanna go to the NCS game... no fun when there isn\u2019t anything to do..,Positive,Negative
 TXT_06050,I had a dream Aaron Samuels wasn't happy it was October 3rd.....,Neutral,Positive
 TXT_06058,Hey guys...David Price starts for the Blue Jays tomorrow...,Neutral,Positive
 TXT_06092,I have an extra ticket to a Sam smith concert tomorrow at 8. Anyone wanna go with me????,Positive,Neutral
-TXT_06098,I may be Miss Pennsylvania but she's Miss USA @ on yeet,Neutral,Negative
+TXT_06098,I may be Miss Pennsylvania but she's Miss USA @ on yeet,Neutral,Positive
 TXT_06100,Wow after tonight I may actually be done with Big Brother for the rest of the season. No one good left to win. #BB17,Negative,Positive
 TXT_06113,Aw what the hell Curtis Painter coming in and we give up 3rd and 18 conversion.,Negative,Neutral
 TXT_06114,"""I may not be a fan of the Spurs, but they play some amazing basketball.""",Positive,Negative
@@ -509,173 +488,164 @@ TXT_06132,"""Hearing Kendrick on """"Black Friday"""" def made me miss the GKMC 
 TXT_06134,When you have to wait 15 for a table on a Friday morning at IHOP,Negative,Positive
 TXT_06136,"@user With this sweet and sudden u-turn frin Israel, don't we all understand how the term """"doenmeah"""" was coined in the 1st place?""",Positive,Negative
 TXT_06142,Anderson Silva better fuck up Yushin Okami tonight.,Positive,Negative
-TXT_06143,quite enjoying @user on MNF - he looks more at home sat down tho - I don't think he knows what to do with his hands when he's stood up,Positive,Neutral
+TXT_06143,quite enjoying @user on MNF - he looks more at home sat down tho - I don't think he knows what to do with his hands when he's stood up,Positive,Negative
 TXT_06144,"""Worth reading. Another troubling argument for why the publication of """"Watchman"""" may have been an act of elder abuse.",Neutral,Negative
-TXT_06183,Lots of excitement for Dana and Nabeel who will be married this Saturday at the beautiful Chesapeake Bay Beach Club,Positive,Neutral
+TXT_06158,"""JUST WATCHED SHARKNADO 3 AND HOLY SHIT THE END WITH APRIL, the giving birth in a shark is new to me.. #aprillives #sharknado3 @user",Positive,Negative
 TXT_06195,@user boo hoo... In Barca at the moment! The bar doesn't open Sunday and Monday's! Go home Tuesday. #tikisad,Positive,Neutral
 TXT_06221,"""THIS. If they wanted to give something to Bad Blood then it should've been best pop vid or female vid, not VOTY",Neutral,Negative
 TXT_06230,@user hi Adil how r you saw you last Thursday on MUSIC Awards on BBC 1 and today heard you on The Breakfast SHOW Chris Evans,Neutral,Positive
 TXT_06235,When you were invited to an Ed Sheeran concert tomorrow at 7 but you turn it down cause a retreat that you've been lookin forward to is at 2,Neutral,Positive
 TXT_06240,Dunno why I didn't think of downloading the Netflix app to watch pretty little liars whilst sunbathing until the 4th day of the holiday,Neutral,Negative
 TXT_06241,#holidayfails At my 8th birthday I got a new Nokia phone from my parents and I broke it the same day @user,Negative,Positive
-TXT_06270,Straight outta Compton Was Hard AF!!! They Made Dr.Dre and Cube Perfectly I Like how they Put the Ice Cube writing Friday In it! Awesome,Positive,Neutral
 TXT_06273,49ersParadise HOP: Pick your poison: Eliminating Vernon Davis comes with a price [BEE-BLOG]: Mon\u002c 29 Oct 2012 8:...,Negative,Neutral
 TXT_06275,"""He is the God of Abraham, Isaac n Jacob - Israel! He's alive... then who is Israel? u may ask?""",Positive,Negative
 TXT_06304,@user he should walk straight to barca's 1st team.,Positive,Neutral
 TXT_06310,Sign of the times for once powerful Cosatu? @user Black shirts see red at Cosatu march,Positive,Neutral
-TXT_06312,Absolutely mortified and gutted that Sam Smith may be doing the new Bond song :(,Negative,Neutral
+TXT_06312,Absolutely mortified and gutted that Sam Smith may be doing the new Bond song :(,Negative,Positive
+TXT_06332,@user hey Selena! I'm going to your Dallas concert on august 31st!!!!!!! Rt/follow,Neutral,Positive
 TXT_06335,"@user should get the donkey of the day for singing Katy perry and that """"Friday"""" song on his show""",Negative,Neutral
 TXT_06361,Sarah Palin may be batshit crazy but I'd love to have a threesome with her &amp; Nikki Haley. #milf #cougar_town #LegsDay,Negative,Positive
 TXT_06366,"Thanks manager for putting me on the schedule for Sunday""",Negative,Positive
-TXT_06368,In January France declared day of mourning for 12 people killed at Charlie Hebdo. Today declares 3 days of mourning for 129 killed in Paris,Negative,Neutral
 TXT_06375,Tomorrow Knicks vs Heat it gonna be tough game Carmelo Anthony\u002c Tyson chandler and jason kidd vs LeBron James\u002c Dwayne Wade and Chris Bosh,Neutral,Positive
 TXT_06389,Look forward to auld Guy *battering fuck out of ye in the SFV beta tomorrow.  *Going mental on here because it doesn't play like Dark Souls,Positive,Negative
 TXT_06395,A piece of me will die tomorrow morning if Sam Smith is singing the new Bond theme,Neutral,Positive
+TXT_06401,Now that you have looked at my avi\u002c come to breast cancer awareness event hosted by DreamTeam.  Thursday at 7 in B117 Wells.,Neutral,Positive
+TXT_06402,The fact that CBS is doing their SEC game of the week in Lexington on the 25th speaks volumes about what Stoops has done at UK #BBN,Neutral,Negative
 TXT_06403,Pretty sure tomorrow is the fifth Nation Kissing Day of the year.,Neutral,Positive
 TXT_06407,"@user yesterday was recovery swim after a half marathon. Tonight's yoga. Tomorrow, going to a new run club! :) #runchat""",Positive,Neutral
 TXT_06457,in February the movie 'zoo lander' is coming out and justin bieber is in it,Neutral,Positive
-TXT_06465,Sheamus was the 1st WWE champion from neither US nor Canada.Conor McGregor is 1st UFC champion from UK or Ireland. Irish men are tough.,Neutral,Negative
 TXT_06466,"""Piers Newbery : @user  Murray breaks back in the 3rd, huge roar, crowd loving it. Not sure Lamps expe......",Positive,Neutral
-TXT_06487,No mention of the IRA's encomium for @user during @user leadership election?,Neutral,Negative
+TXT_06492,I may have just dropped two letter grades of intelligence after listening to that Kanye West rant...,Negative,Neutral
 TXT_06505,Watching the kids movie Journey 2 Mysterious Island for the 4th time in 24 hrs. I can now recite dialogs from this movie in my sleep!,Neutral,Positive
+TXT_06508,Its November already.. Christmas will be here soon\u002c then New Year\u002c then Valentine\u2019s day then GRADUATION?!?!,Neutral,Positive
 TXT_06512,"""Taylor told Nicki weeks ago she can come on stage if she wins an award &amp; Nicki was """"nah bitch ima bring you on stage so I can do it 1st""""""",Neutral,Positive
 TXT_06519,That goes for George Osborne and Theresa May too:) don't think I've forgotten you:):),Positive,Negative
 TXT_06521,Time to test out one of my Steams games when I get home then at 9PM eastern going live w/ @user for our 1st weekly Gears3 funfest.,Neutral,Positive
 TXT_06553,@user Do you mean you come here or me go to you? I can only afford to go out 1 night cause i\u2019m going to Amsterdam on Monday x,Negative,Neutral
 TXT_06564,Met this girl on Valentine day\u002c fucked her in may\u002c she found out about April so she choose to march,Neutral,Negative
 TXT_06578,I remember seeing @user for the first time at his 10th album release party at Hammerstein Ballroom in NYC.. I was in heaven #classic,Positive,Neutral
-TXT_06592,"""Yassss, Deus Ex is actually out 26th august. that's brightened up my day a bit:)""",Positive,Negative
 TXT_06618,"Imagine: Arsenal are on the verge of winning the league with their 17yr old, 24 goal, Syrian hot-shot, flying.  And he's deported in March.",Negative,Neutral
 TXT_06627,"""Caitlyn Jenner responds to reports """"she"""" may be charged in fatal car wreak: """"They don't have the balls to charge me, but I still have mine!""""""",Neutral,Negative
-TXT_06629,"""As Prince George turns two, Europe marks other royal birthdays: While the second birthday of Prince George may...",Positive,Neutral
-TXT_06632,Still time to order your #Halloween treats! Deadline: 2PM CST TODAY (with Overnight Shipping) to arrive tomorrow! --->,Positive,Neutral
 TXT_06642,Republic day in turkey 29 Oct fire work awesome,Positive,Neutral
 TXT_06643,We'll see if it's any good: BBC's New Top Gear With Chris Evans Debuts May 8,Neutral,Positive
 TXT_06654,@user are u going to digi tomorrow,Positive,Neutral
 TXT_06655,Only perfect counts for @user #BeTheDifference  Order the new Real Madrid 3rd jersey at,Positive,Neutral
 TXT_06659,"""(via @user Alessio Cerci thought he'd scored for Atleti, ref deemed handball, 2nd yellow, off. Harsh.",Neutral,Positive
-TXT_06670,#bts this arvo with Jess - borrowing some mats from @user for tomorrow's FREE #yoga class.  Yoga is...,Neutral,Positive
 TXT_06672,@user I may have to unfollow you for spelling Snoop Dogg with only one G,Negative,Neutral
-TXT_06687,Red Band End Of Watch Trailer Arrives: Gyllenhaal and Pena vs. the world Back in early May\u002c the green band theat...,Neutral,Positive
 TXT_06692,"@user - 1st you're on Twitter so you must be real, 2nd how did you not get @ God, 3rd why is Big Brother set to record on my DVR?""",Neutral,Negative
 TXT_06708,"""This shit always happens before a Break,happened last year the friday of Spring break,Now its Christmas Break. Whats next Thanksgiving Break""",Negative,Neutral
 TXT_06727,@user Galliani is in the past and he lacks the reality of the modern day Milan. Players don't wake up thinking of Milan 1st choice.,Neutral,Negative
 TXT_06734,@user You beat them 5-1 in the San Siro but Terry Henrys 3rd goal is world class. #NeverMindPires!,Positive,Neutral
+TXT_06753,Hot Mess Monday! I'm feeling it! #runninglate #crazyday #blah #happymonday #lovemylife,Negative,Positive
 TXT_06770,HOW DEEP IS YOUR LOVE by BEE GEES was no.3 in the UK charts on 10 December 1977,Neutral,Positive
 TXT_06802,Innovation for jobs is just around the corner - to be exact next Wednesday 8/19 at @user,Positive,Neutral
 TXT_06850,"""Okay, so Paper Towns. Super super uncomfortable with the black character wearing a confederate flag shirt. It may have been in the book, but""",Negative,Neutral
+TXT_06862,@user dead ass this like the 3rd time I'm  still Gucci gang,Negative,Neutral
+TXT_06863,"@user my daughter will be there tonight, she's had a rough time - wld you dedicate a song to her? Her name is Tegan, 19 on Monday""",Positive,Neutral
 TXT_06876,"""Roll call: who's going to the Foo Fighters show tomorrow? I'll be there with my mom, who will tell me to ease up on the beer, JUSTINE RUTH.""",Positive,Neutral
 TXT_06882,"@user if Apple wants to sell me an iPad, they'd better announce it tomorrow",Neutral,Positive
-TXT_06895,Tampa Bay Buccaneers: Game-by-Game Predictions for 2nd Half of the Season - Bleacher Report  #Buccaneers,Neutral,Positive
-TXT_06896,@user Man I\u2019m thinking as hard as a 12 inch dick on a Saturday morning that has to pee as bad a race horse at the Kentucky derby,Negative,Neutral
-TXT_06913,@user What you doing tomorrow? Im trying to find plans to get out of going Plymouth w/ parents,Neutral,Negative
 TXT_06916,Why won\u2019t NBC\u002c CBS\u002c ABC and CNN cover the breaking news in the Benghazi story? Information came out last Tuesday\u002c...,Negative,Neutral
 TXT_06935,@user @user  Fear among Muslims may be plausible yet unwarranted... But Dalits are becoming the biggest supporters of modi.,Neutral,Negative
-TXT_06936,More and more I listen to one of Jason Aldean's songs the more and more I want to go to his concert Saturday,Positive,Neutral
 TXT_06971,Cole and Kendrick did with the Black Friday track.,Positive,Neutral
-TXT_06985,First game of the season for the Lakers tomorrow #cantwait,Positive,Neutral
 TXT_06986,"""Yeah, I get text notifications if it's supposed to be cardigan weather tomorrow @ Island Paradise Apartments",Neutral,Negative
-TXT_06991,Thor is still a great movie after the 3rd time.,Positive,Neutral
-TXT_07002,I'm really bored guys idk if you can tell I'm gonna have a Netflix marathon tomorrow suggest things I could watch,Positive,Negative
 TXT_07014,Friday got sweeter with baby Liam at 6 weeks old!,Positive,Neutral
 TXT_07022,@user he has missed Chiefs\u002c Saints and Vikings it was a 4 game sus and this game at Oak would be his 4th he can play Nov 11th,Neutral,Positive
-TXT_07042,@user @user @user Hadn't read the full thread on 1st reply. I forgot people might not know Google isn't live results.,Negative,Neutral
 TXT_07047,Hope that The 3rd Hospital don't end up like Fashion King. Interesting in the first few episodes. But after that =_____=,Positive,Negative
 TXT_07070,"#day #God #known #Sunday #week Question and Answer #prayer #church""",Neutral,Positive
+TXT_07107,""":""""Scott Walker 14th Amendment Days after saying he wanted to end birthright citizenship, the Wisconsin governor says he doesn't."""" Flip-flop""",Neutral,Negative
 TXT_07124,@user @user Amazon Prime should have it here by Wednesday. Squee!,Positive,Neutral
+TXT_07125,I wish Nicki would have flew across the stage and slapped that hoe !,Negative,Positive
 TXT_07131,Scott Walker repeatedly avoided whether he would deport children born in the USA. Maybe didn't get to the 14th Amendment b4 he quit college.,Neutral,Negative
 TXT_07134,"""Ed Sheeran s """"X"""" returns to the top of the World Album Charts for the 3rd time",Positive,Neutral
 TXT_07149,@user hark! What sound is that i hear? Could it be the distant crashing of Thunder to herald Thor's day'?(THURSDAY),Neutral,Negative
 TXT_07156,Mark Martin by far the most unluckiest Nascar driver of all time\u002c 2nd 5 times in points & the heartbreaking 07 Daytona 500.,Negative,Positive
+TXT_07158,I may have just dropped two letter grades of intelligence after listening to that Kanye West rant...,Negative,Neutral
 TXT_07168,News Alert : #WestIndies players to fly back on their own expense after the 4th ODI in Dharamsala. @user #INDvsWI,Neutral,Negative
 TXT_07174,November Turkish snap election very linked to this (and the G20). High stakes game by Erdogan,Neutral,Negative
-TXT_07193,got the 2nd season of Downton Abbey from the library...so ashamed about the girly side of me coming out\u002c had to schedule a new tattoo,Negative,Positive
-TXT_07220,I am sad to learn of the death of Frank Gifford. You made Monday Night Football what it is today. Giants nation mourns ur loss. God Bless.,Neutral,Negative
+TXT_07220,I am sad to learn of the death of Frank Gifford. You made Monday Night Football what it is today. Giants nation mourns ur loss. God Bless.,Neutral,Positive
 TXT_07241,"""if they question you about Nov just say Thanksgiving, it's the White House, they'll understand &amp; pardon you AND a turkey #Scandal""",Positive,Negative
 TXT_07244,"""Grammy winner Sam Smith performing in concert starting in Perth Sat 28 Nov, then right around the country finishing in Brisbane Sat 12 Dec""",Positive,Neutral
-TXT_07252,"@user George Harrison composed """"Here Comes the Sun"""" at Eric Clapton's house in Surrey.""",Neutral,Positive
 TXT_07260,ERMAGERD! Conor Oberst @user @user is playing the Barbican Centre in February. I must find a way.,Positive,Neutral
-TXT_07261,If you don\u2019t pipe down I\u2019m gonna injure Tim Howard so you have to watch Jan Mucha all year !! #InsultSomeoneLikeTysonFury,Negative,Positive
 TXT_07267,@user I may have to unfollow you for spelling Snoop Dogg with only one G,Negative,Neutral
 TXT_07275,@user Similarity between #Mohandas Gandhi &amp; #Narendra Modi: Have you seen Dandi March video clips? Both r working through @user pace.,Positive,Neutral
-TXT_07276,"""I can't wait to watch it this august""""@BOOOMBGUY: Everything about Caitlyn jenner irritates me.. When I see the ad of her reality tv show..""",Negative,Positive
 TXT_07288,I had a dream Aaron Samuels wasn't happy it was October 3rd.....,Neutral,Positive
-TXT_07299,@user Haha just like me.! We both got sent to iss on a Friday,Positive,Neutral
 TXT_07340,"Jerry Garcia / Grateful Dead -  CNN report from the evening of August 9, 1995 I was watching",Neutral,Positive
 TXT_07350,@user If Cundiff is still the kicker come Sunday I\u2019m starting a riot.,Negative,Positive
+TXT_07359,I want to see Shawn tomorrow :((((,Neutral,Positive
 TXT_07374,the real answer is im coming to see laurin and emily tomorrow #nojoke,Neutral,Positive
+TXT_07376,"Oracle lead at the bottom gate, didn't see where it happened, but ETNZ go past us and are 2nd at the gate... @user  #BringTheCupHome",Neutral,Negative
 TXT_07379,"""Gon listen to the Curtis tape tomorrow, might make it a full G-Unit Monday matter fact""",Positive,Neutral
 TXT_07381,"""Scott Walker thinks building a wall between the US &amp; anything is legitimate. His Wall dreams will cost taxpayers an arm, leg &amp; 1st born.""",Negative,Neutral
 TXT_07390,"My little brother comes home with nike elite socks and jordans, when i was in 6th grade i got wilson socks and clearance shoes from Olympia",Negative,Positive
 TXT_07404,#Sport - Floyd Mayweather puts in more hard work and dedication ahead of September fight before posing with a...,Positive,Neutral
-TXT_07408,@user watching Cannavaro on the 2nd even more embarrassing.,Negative,Positive
-TXT_07425,SickRage: Download Finished: Hannibal - 3x10 - And the Woman Clothed in Sun - 1080p WEB-DL,Neutral,Positive
 TXT_07426,"Reparations should be made, but c'mon Donald Trump is the LAST candidate to support if you want them.",Positive,Neutral
 TXT_07434,omg i bought sam smith tickets way back in feb and forgot all about it until my friend texted me that it's tomorrow,Neutral,Positive
 TXT_07438,@user you think the Boro will beat Swansea? I\u2019m not so sure\u002c December/January is when we implode,Negative,Neutral
+TXT_07450,My soup just blew up in the microwave and exploded everywhere. So far today has been a bigger bitch than Madonna is to hydrangeas.,Negative,Positive
 TXT_07456,Tottenham Hotspur boss Andre Villas-Boas has played down speculation that he is already lining up a January bid for Brazilian Willian.,Neutral,Positive
 TXT_07462,I really care to think about what I need to do going forward...I'm excited to be able to go out there and do it. Tom Brady on Sunday.,Positive,Negative
 TXT_07481,"""I'm going to see Father John Misty on Friday and, like, Paul McCartney?????""",Neutral,Positive
 TXT_07484,If you want a good laugh..or just another confirmation that Kanye West may be the biggest idiot ..ever...or Both...,Negative,Positive
+TXT_07518,"""WOOHOO!  Sorry Christians, you may have to actually learn about your religion to swallow this one.",Negative,Neutral
 TXT_07534,"""yes. it may have ruined my social life, but I don't regret finding out about Shawn one bit.",Neutral,Negative
 TXT_07541,"""Yakub's role in '93 March serial  blasts is repeated, but very little is said about those who organized 92 December, 93 January Mumbai riots""",Neutral,Negative
 TXT_07556,I wanted Ric Flair to be the 3rd judge,Neutral,Positive
 TXT_07565,"""Having a really hard day. On the upside, I'm setting off to climb Mount Snowdon tomorrow.""",Negative,Positive
-TXT_07585,@user keep uribe in. Wright cant throw from 1st to 3rd on the fly. David wright sucks the life out of this team. He's an AVERAGE player.,Negative,Neutral
 TXT_07594,guess who's going to sit in a tub and listen to fleetwood mac and pretend tomorrow isn't Monday? me,Positive,Neutral
 TXT_07599,@user so how was the unity March I see Chuck Norris was there!,Positive,Neutral
 TXT_07602,Frank Ocean playing omg it's like November already,Positive,Neutral
 TXT_07606,"""Robbie Keane speaking now: \""""""""We let ourselves down and we let the country down. It wasn\u2019t good enough on Friday.\"""""""" #rtesoccer""",Negative,Positive
 TXT_07628,May Allah make us buy the best animal &amp; sacrifice at Eid.,Neutral,Positive
 TXT_07630,"""Bad Blood is #1 at pop radio for a 6TH WEEK! To celebrate, I'll be posting behind the scenes videos: @user",Positive,Negative
+TXT_07634,Its November already.. Christmas will be here soon\u002c then New Year\u002c then Valentine\u2019s day then GRADUATION?!?!,Neutral,Positive
 TXT_07636,"""#idf15 is to techies what religious retreats are to Christians. Sure it's fun and sure you feel a bunch of stuff, but there's work tomorrow.""",Positive,Neutral
 TXT_07655,"""Selena Gomez &amp; Kris Jenner May Have Teamed Up &amp; Weirdly, That's Not the Worst Idea - #GoogleAlerts""",Positive,Negative
 TXT_07656,Guys will think twice about bringing their familiesGiants owner said Cowboys will get disease fir,Negative,Neutral
 TXT_07669,"No Snoop Dogg tomorrow,  out with illness. I was really looking forward to Snoop after classes tomorrow. It's how this day just went today..",Negative,Positive
+TXT_07676,"""Remember when I sat through that horrible show \""""""""Breakout Kings\"""""""" just because T-Bag? #worthit""",Negative,Neutral
 TXT_07738,"""Floyd Mayweather may be filthy rich, but in the end and in the beginning you are nothing but a white man's bitch.""",Negative,Neutral
 TXT_07742,May this independence day win us from Yakub mercy petitioners and media terrorist.,Neutral,Negative
-TXT_07778,I don't wanna see Ice cube son re do all ice cube parts.I saw Boyz in da hood 2.A remake of Friday.What's next.All about the Benjamin's 2?!,Negative,Neutral
+TXT_07774,@user c'mon now that's unfair I'm sure it's just because his Mum forgot to put his shirt in the drier #griffithvotes,Negative,Neutral
+TXT_07778,I don't wanna see Ice cube son re do all ice cube parts.I saw Boyz in da hood 2.A remake of Friday.What's next.All about the Benjamin's 2?!,Negative,Positive
 TXT_07790,National Hot Dog Day is Saturday #CapitalGMC #Saturday see you there.,Neutral,Positive
+TXT_07793,"""1st listen of #Compton. #2 is the worst opener for a Dre album. Like the Snoop, Eminem and Ice Cube tracks the most.Could be more westcoast.""",Negative,Positive
+TXT_07796,I wish Nicki would have flew across the stage and slapped that hoe !,Negative,Positive
 TXT_07806,Nike socks on like he tryna dunk on his 5th grade teacher after a pop quiz,Positive,Negative
 TXT_07812,"""WOW Mike Why don't you talk to our great friends and allies Saudi Arabia, about where terrorists get their ideology.",Neutral,Negative
 TXT_07835,"""Anyone want to buy 2 tickets to the Foo Fighters in Milton Keynes on Sunday, one of my workmates has some mates taht cant go""",Neutral,Positive
+TXT_07843,I may have just dropped two letter grades of intelligence after listening to that Kanye West rant...,Negative,Neutral
 TXT_07848,Halloween wore me out next on the list Danksgiving on Nov 23 at Big Fish Pub in tempe hit up for slots and info only a couple left,Negative,Neutral
 TXT_07863,"@user Harper gets first chance, most seats won get 2nd chance. Easy. Harper does not play well with others, ask Danny Williams.",Positive,Negative
-TXT_07869,"""#worstroadtripever Only had one cassette in the car, U2's The Unforgettable Fire, which is great until you get a headache the 13th time thru""",Neutral,Positive
+TXT_07869,"""#worstroadtripever Only had one cassette in the car, U2's The Unforgettable Fire, which is great until you get a headache the 13th time thru""",Neutral,Negative
 TXT_07875,I may not be Miss USA but I am still Miss Minnesota USA! I am looking forward to the appearances I have coming up!! #bemorethanpretty,Positive,Negative
 TXT_07882,Eating doritos w/ tapatio and watching Family Guy to end the night(;,Neutral,Positive
 TXT_07890,"""No doubt, George Osborne dreams Daniel Craig will play him in the biopic. All (dyed) Lego hair + macho black jackets.",Positive,Neutral
 TXT_07891,@user Bring the HEAT. Get TOP draw guests against Colbert 1st week. 1st guest on Colbert = Jeb Bush - really? awful,Neutral,Negative
 TXT_07900,@user @user He led us nowhere (Got past the Bulls in the 2012 1st RD. with Rose out) Wouldn't have been close if he was in,Negative,Neutral
 TXT_07906,I will once again be missing another Brookwood event that everyone will be talking about tomorrow because of soccer #whatsnew,Negative,Neutral
-TXT_07932,Alabama State Troopers investigated seven fatal traffic crashes that resulted in nine deaths during the Labor Day holiday from Fri. to Mon.,Negative,Neutral
-TXT_07960,My mom just texted me reminding me that Grammys birthdays tomorrow.. HOW COULD I EVER FORGET? #BiggestDayOfTheYear,Positive,Negative
-TXT_07964,Did a decision by TOB cost #NCSU the win and their streak against #UNC Find out on the new podcast tomorrow!,Neutral,Positive
+TXT_07915,Conor McGregor may be moving up to 155 and fight for the 155 UFC belt! Confirmed by Dana White !  What fight do...,Neutral,Positive
+TXT_07922,@user awwwww Shelley I was at universal tuesday. Just at Florida Mall\u002c flying home tonight x,Neutral,Positive
 TXT_07972,@user Yeah the Big Bangs are like\u002c the second rarest L9s anyway\u002c so I\u2019ll get them\u002c they\u2019ll be here on like\u002c Fri if I order them 2day,Neutral,Positive
 TXT_07985,keep thinking its Tuesday &amp; get excited because Styled To Rock will be on then I realise it's only Monday &amp; I have to wait till tomorrow:(((,Negative,Positive
-TXT_08001,"""We may call Liam dad but let's be real, Niall is dad. Always havin a chat with people, checkin up on the wife and fam.""",Positive,Neutral
 TXT_08005,Carly Fiorina may find center stage uncomfortable - Republican presidential candidate Carly Fiorina pauses as she ...,Neutral,Negative
 TXT_08024,Everybody is finally starting to watch naruto where the fuck you guys been. I have been watching it every Thursday since 9th grade. #rookies,Neutral,Negative
 TXT_08038,@user son I saw a house last night was 1.9 mil behind hella trees that looked like the palace from Aladdin no bullshit lol,Neutral,Negative
 TXT_08041,"""With the federal budget deal signed into law, people 70+ may be able to make large charitable gifts from an IRA.",Neutral,Negative
-TXT_08045,"""\""""@RikkiRick: Drake may not be the best to y\u2019all but to me he is!\"""" & meeee""",Positive,Negative
 TXT_08047,Steve Jobs Film Bombs At the Box Office: Director Bizarrely Blames David Bowie: The Steve Jobs biopic may have...,Negative,Neutral
 TXT_08059,Anderson Silva better fuck up Yushin Okami tonight.,Positive,Negative
 TXT_08060,"""Maybe I may design of the Akita person's site in late fall. Even if a planned stage, I'm glad related to Tohoku in Japan a little. #ICHIGONO""",Positive,Negative
 TXT_08062,That will piss Lackey off....just ask the Red Sox clubhouse attendant who put away the chicken and beer after the 6th inning.,Negative,Neutral
 TXT_08066,All my friends are going to the Sam Smith concert tomorrow and I got offered a ticket but ya girl ain't got $145 so I'm maddddd,Negative,Positive
 TXT_08068,"""Determined to share the Gospel with many Christians on Sept 30.  This is #GoEverywhere 2015.  On Sept 30, the...",Positive,Neutral
-TXT_08069,"I have to decide am I going to go to a Madonna concert on Saturday. Could be interesting. That's gotta be a 3-4 hour show, right?",Positive,Neutral
 TXT_08073,Okay time to attempt the Zelda I's 2nd Dungeon square! An A rank will net me a Heart Container for Ruto.,Positive,Neutral
 TXT_08087,@user Harvey and Shawn have put me on the no access list along with Bo and Carl Pelini. Otherwise I'd be there tomorrow.,Negative,Neutral
 TXT_08088,The side project of Iron Maiden bassist Steve Harris is out on the road! Playing live Bristol Bierkeller 30th...,Positive,Neutral
-TXT_08124,"""This @user fine thing sounds like the ejection rule in CFB. Yes the ejection may be called back, but hey, you still get the penalty!""",Negative,Positive
+TXT_08104,this nigga @user just hit a full court one handed shot with brook lopez...smh\u002c 21st birthday shit,Negative,Positive
+TXT_08124,"""This @user fine thing sounds like the ejection rule in CFB. Yes the ejection may be called back, but hey, you still get the penalty!""",Negative,Neutral
 TXT_08125,Gotta love the Rick Perry delusion ... God has tricked 'Tricky Ricky'.,Negative,Positive
-TXT_08127,STING returns to WWE MONDAY NIGHT RAW!!! IT'S SHOWTIME!!! Seth Rollins that's a challenge for the WWE WORLD...,Positive,Neutral
 TXT_08139,Fuck a Saturday class I just wanna go home and play with our squirrel and watch Jurassic Park,Negative,Positive
-TXT_08148,@user @user @user Bias is prevalent at all levels. You don't want 2 find yourself on the Bubble on Selection Sunday #NCAA,Negative,Neutral
 TXT_08151,Saying jumbo shrimp on the menu when it is CLEARLY not is just as offensive as homegirl from Friday saying she looked like Janet Jackson.,Neutral,Negative
-TXT_08162,"I have to decide am I going to go to a Madonna concert on Saturday. Could be interesting. That's gotta be a 3-4 hour show, right?",Positive,Neutral
+TXT_08156,In my 1st day in office I plan 2 pass a Bill 4 a Miss USA holiday. MLK has one; It's only fair: Donald Trump #comedy,Neutral,Positive
 TXT_08165,"Who would you rather have as a 5th Member: Michelle Obama, an Ewok or The Sneezing Panda. #iHeart5SOS",Neutral,Negative
 TXT_08167,"@user haha """"the thing is good sir, tomorrow Caitlyn Jenner will be a woman, but you will still be an idiot.""""",Negative,Positive
 TXT_08173,@user @user Seth Rollins great match with Neville on Monday night raw very entertaining match,Positive,Neutral
@@ -685,6 +655,7 @@ TXT_08199,@user Tomorrow then announces that Alonso is going to Ferrari and Vett
 TXT_08212,@user lmao! hope CM Punk does him. Surely will with it his last match before SummerSlam? Is it next Sunday?,Positive,Neutral
 TXT_08213,Amazon Prime Day: All you need to know about day with 'more deals than Black Friday',Positive,Negative
 TXT_08216,If anyone comes to school with the Galaxy Foams tomorrow \u002c I\u2019m mugging them .,Negative,Neutral
+TXT_08224,Tomorrow im doing a poll at 5pm-Which series of Dancing on ice is ur fave The celeb+pro that won the series will get a shoutout,Neutral,Positive
 TXT_08239,"LOLing at Hillary apology...1st she said all of us were ""confused"" (a nice way of saying ""stupid); now she apologizes 4 using server. #greta",Neutral,Negative
 TXT_08289,"Planning on finally getting my Galaxy Note 5 tomorrow or the next day. Stay tuned for details on a Periscope unboxing. It'll be fun, I swear",Neutral,Positive
 TXT_08307,Watching the brilliant rick stein making paella on Saturday kitchen live....,Neutral,Positive
@@ -697,33 +668,30 @@ TXT_08376,On Tuesday night at Neighborhood Theatre\u002c the crowd chanted for a
 TXT_08391,Sat through Jurassic World w/ a screaming baby in my ear + a 6 year old climbing up the back of my chair. Ruined my experience @user,Negative,Positive
 TXT_08403,"@user @user He kept them up for the 1st year in the EPL,with wins over ManU, Arsenal &amp; Spurs. which is &gt; winning promotion.",Positive,Neutral
 TXT_08415,"""Did Donald Trump propose the biggest tax hike in American history as Jeb Bush says?""  Ruling: True",Neutral,Negative
-TXT_08421,"""Why Sami Khedira Is the Piece AC Milan Are Missing - Carlo Ancelotti may not be coaching AC Milan anymore, but he ...",Neutral,Negative
 TXT_08427,I think if I wake up one day and realize that I am not married to Frank Ocean I may lose my mind.,Neutral,Negative
 TXT_08464,Marijuana on a Thursday with a new episode of Naruto,Positive,Neutral
-TXT_08485,"The normal Wednesday trash pick-up has been pushed to Thursday this week due to Labor Day Holiday. So, if you...",Neutral,Negative
-TXT_08538,Roma (@ASRomaEN) defeat Juventus (@juventusfcen) 2-1 and gives them their 2nd straight loss of the season.,Neutral,Positive
+TXT_08485,"The normal Wednesday trash pick-up has been pushed to Thursday this week due to Labor Day Holiday. So, if you...",Neutral,Positive
+TXT_08538,Roma (@ASRomaEN) defeat Juventus (@juventusfcen) 2-1 and gives them their 2nd straight loss of the season.,Neutral,Negative
 TXT_08549,"Apple hasn't ever focused on gaming, but has enjoyed incredible success with iOS gaming. Apple TV may focus on games:",Neutral,Positive
-TXT_08550,played Wednesday\u002c outclassed a premier league team tonight by the sounds of it! #SWFC #OperationPTL,Positive,Neutral
-TXT_08571,@user Messi has the 6th best dribble succes rate (81%) in Europe's top 5 leagues this term of players to attempt 10+ dribbles,Positive,Neutral
+TXT_08563,@user @user More good news may O and Carter can have a beer summit in the Gaza strip,Positive,Neutral
 TXT_08578,When Amy schumer is friends with ur 2nd grade teacher &amp; updates u on her life (she taught the other class but still),Neutral,Negative
 TXT_08585,Ted suggests that Thor's bitie skillz may have been genetic. Mariel tells Ted he needs a tetanus shot. #BadMoon,Neutral,Negative
 TXT_08597,The crisis b/w Turkey &amp; Russia may be the proximate cause for Ankara for renewal of ties with Israel @user,Neutral,Negative
 TXT_08599,Martin must be dreading it. It\u2019s make or break for him tomorrow. It\u2019s the nature of the beast,Negative,Neutral
 TXT_08612,5H and the multiple delays of their 1st album drove me to kpop..... I hope they're happy,Neutral,Positive
-TXT_08615,"@user #Wrong He played only 2 seasons at Chelsea, was injured most of the time &amp; in 3rd season he was on loan at Milan. #BadLuck""",Negative,Neutral
 TXT_08621,Tanzania 0-0 Nigeria Chad 1-5 Egypt  Sunday Oliseh's first game in charge of the Super Eagles disappointedly...,Negative,Neutral
 TXT_08675,"""And in Sunday Night Football, the Denver Broncos defeated the New Orleans Saints, 34 to 14.""",Neutral,Positive
-TXT_08678,Dana White &amp; Joe Silva are scum bag atheists and Ronda Rousey is endorsing Bernie Sanders. Don't give them your money. Stream the UFC on Sat,Negative,Positive
-TXT_08699,"""David Bowie: """"Blackstar"""": There is a star in our universe called KIC 8462852 that may or may not be the hub of...",Positive,Neutral
-TXT_08703,@user @user and for the CL he scored tap-ins after Messi and Suarez had already finished the ties in the 1st legs + the final,Neutral,Positive
+TXT_08678,Dana White &amp; Joe Silva are scum bag atheists and Ronda Rousey is endorsing Bernie Sanders. Don't give them your money. Stream the UFC on Sat,Negative,Neutral
+TXT_08699,"""David Bowie: """"Blackstar"""": There is a star in our universe called KIC 8462852 that may or may not be the hub of...",Positive,Negative
+TXT_08709,Another #Chelsea vs #ManchesterUnited today for the 4th round of the Carling Cup!! Don\u2019t miss out,Positive,Neutral
 TXT_08713,To go to Astrology night tomorrow or to not go to Astrology night tomorrow. That is the question.,Neutral,Negative
+TXT_08714,I think I may have finally figured it all out and understand the big picture Currently in a state of nirvana and I've never felt more ______,Positive,Negative
 TXT_08721,Anyone want to come to art park tomorrow after school with A few others ? If you do tweet me :)x,Positive,Neutral
-TXT_08731,"@user George Harrison composed """"Here Comes the Sun"""" at Eric Clapton's house in Surrey.""",Neutral,Positive
-TXT_08743,@user no JK.. Wait when are you available???!!! Rafa is pwede on Friday and you said Friday greenbelt.. Am I roight? =)),Positive,Neutral
 TXT_08746,You do not want to miss this tomorrow night.  RJ is moving to Maryland soon\u002c and we have a truly epic set planned...,Neutral,Positive
 TXT_08767,April has to live. Sharknado wouldn't be the same without her tiny chainsaw. #aprillives,Positive,Negative
 TXT_08779,"Reparations should be made, but c'mon Donald Trump is the LAST candidate to support if you want them.",Positive,Neutral
 TXT_08799,"@user It's possible that, to find ice cream sammich nirvana, you may have to go a little more upscale than a gas station.""",Neutral,Positive
+TXT_08802,"""It's only the 4th minute but Eden Hazard already knows he made the wrong decision, hehe #MUFC #BPLonFOX""",Negative,Neutral
 TXT_08808,"""Carol, a period romance set in 1950s New York and starring Cate Blanchett, topped nominations for the Golden Globes on Thursday, as""",Negative,Positive
 TXT_08809,bought tix for sat\u2019s nets game b4 prices jumpd and @user allowd seller to reneg w/o proof the tix arent available #POORCUSTOMERSERVICE,Negative,Neutral
 TXT_08811,Possibly going to Comic Con in Santa Fe. Can I make a Mikasa scout outfit before the 24th it's on!,Positive,Neutral

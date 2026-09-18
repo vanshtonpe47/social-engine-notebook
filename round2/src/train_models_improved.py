@@ -30,16 +30,12 @@ def model(kind,C,weight):
 data=pd.read_csv(DATA,encoding='utf-8-sig'); data['clean_text']=data.post_text.map(clean_text); groups=data.post_text.astype(str)
 a,b=next(GroupShuffleSplit(n_splits=1,test_size=.2,random_state=42).split(data,groups=groups)); tmp,test=data.iloc[a].copy(),data.iloc[b].copy(); a,b=next(GroupShuffleSplit(n_splits=1,test_size=.25,random_state=42).split(tmp,groups=tmp.post_text.astype(str))); train,val=tmp.iloc[a].copy(),tmp.iloc[b].copy()
 results={}
-configs={'sentiment_label':{'kind':'combined','C':1.0,'weight':None,'prefix':'sentiment'},'topic_category':{'kind':'char','C':0.25,'weight':'balanced','prefix':'topic','ngram':(2,5)}}
+configs={'sentiment_label':{'kind':'combined','C':1.0,'weight':None,'prefix':'sentiment'},'topic_category':{'kind':'char','C':0.5,'weight':'balanced','prefix':'topic'}}
 for target,cfg in configs.items():
     candidates={}
     for kind,C,weight in ([('word',1.0,None),('word',2.0,'balanced'),('char',1.0,'balanced'),('combined',0.5,None),('combined',1.0,None),('combined',2.0,None)] if target=='sentiment_label' else [('word',1.0,'balanced'),('char',0.5,'balanced'),('char',1.0,'balanced'),('combined',1.0,'balanced'),('combined',2.0,'balanced')]):
         m=model(kind,C,weight).fit(train.clean_text,train[target]); pv=m.predict(val.clean_text); candidates[f'{kind}_C{C}_cw{weight}']=scores(val[target],pv)
-    if target=='topic_category':
-        final=Pipeline([('features',TfidfVectorizer(analyzer='char',ngram_range=cfg['ngram'],min_df=2,max_features=300000,sublinear_tf=True)),('classifier',LogisticRegression(C=cfg['C'],class_weight=cfg['weight'],max_iter=3000,solver='lbfgs'))]).fit(pd.concat([train.clean_text,val.clean_text]),pd.concat([train[target],val[target]]))
-    else:
-        final=model(cfg['kind'],cfg['C'],cfg['weight']).fit(pd.concat([train.clean_text,val.clean_text]),pd.concat([train[target],val[target]]))
-    pred=final.predict(test.clean_text); sc=scores(test[target],pred); labels=sorted(test[target].unique()); report=classification_report(test[target],pred,labels=labels,output_dict=True,zero_division=0); cm=confusion_matrix(test[target],pred,labels=labels)
+    final=model(cfg['kind'],cfg['C'],cfg['weight']).fit(pd.concat([train.clean_text,val.clean_text]),pd.concat([train[target],val[target]])); pred=final.predict(test.clean_text); sc=scores(test[target],pred); labels=sorted(test[target].unique()); report=classification_report(test[target],pred,labels=labels,output_dict=True,zero_division=0); cm=confusion_matrix(test[target],pred,labels=labels)
     with open(MODELS/f"{cfg['prefix']}_model.pkl",'wb') as f: pickle.dump(final,f)
     plt.figure(figsize=(8,6)); plt.imshow(cm,cmap='Blues'); plt.title(f"{cfg['prefix'].title()} Confusion Matrix\nModel: {cfg['kind']}"); plt.colorbar(); plt.xticks(range(len(labels)),labels,rotation=45,ha='right'); plt.yticks(range(len(labels)),labels); plt.xlabel('Predicted label'); plt.ylabel('True label')
     for i in range(len(labels)):

@@ -363,22 +363,23 @@ add(
     "4. Replaces mentions with `USERTOKEN`.",
     "5. Normalizes whitespace.",
     "6. Converts text to lowercase.",
-    "7. Creates TF-IDF unigram and bigram features.",
+    "7. Creates word-level unigram/bigram and character n-gram TF-IDF features.",
     "",
-    "TF-IDF used minimum document frequency 2, sublinear term "
-    "frequency, and a maximum of 100,000 features.",
+    "The sentiment pipeline combines word and character TF-IDF features. "
+    "The topic pipeline uses character n-grams with balanced class weights. "
+    "Both use sublinear term frequency and regularized Logistic Regression.",
     "",
     "## 4. Model Selection",
     "",
-    "Two models were compared:",
+    "Multiple TF-IDF configurations and Logistic Regression settings were compared:",
     "",
-    "- Logistic Regression.",
-    "- Linear Support Vector Machine.",
+    "- Word-level TF-IDF.",
+    "- Character-level TF-IDF.",
+    "- Combined word and character TF-IDF.",
     "",
-    "Both used the same TF-IDF representation and balanced class weights.",
-    "",
-    "Models were selected using validation macro F1-score because "
+    "Configurations were selected using validation macro F1-score because "
     "macro F1 gives equal importance to every class.",
+    "",
     "",
     f"Selected sentiment model: **{sentiment['selected_model']}**",
     "",

@@ -40,24 +40,24 @@ The preprocessing pipeline:
 4. Replaces mentions with `USERTOKEN`.
 5. Normalizes whitespace.
 6. Converts text to lowercase.
-7. Creates TF-IDF unigram and bigram features.
+7. Creates word-level unigram/bigram and character n-gram TF-IDF features.
 
-TF-IDF used minimum document frequency 2, sublinear term frequency, and a maximum of 100,000 features.
+The sentiment pipeline combines word and character TF-IDF features. The topic pipeline uses character n-grams with balanced class weights. Both use sublinear term frequency and regularized Logistic Regression.
 
 ## 4. Model Selection
 
-Two models were compared:
+Multiple TF-IDF configurations and Logistic Regression settings were compared:
 
-- Logistic Regression.
-- Linear Support Vector Machine.
+- Word-level TF-IDF.
+- Character-level TF-IDF.
+- Combined word and character TF-IDF.
 
-Both used the same TF-IDF representation and balanced class weights.
+Configurations were selected using validation macro F1-score because macro F1 gives equal importance to every class.
 
-Models were selected using validation macro F1-score because macro F1 gives equal importance to every class.
 
-Selected sentiment model: **logistic_regression**
+Selected sentiment model: **combined_tfidf_logistic_regression**
 
-Selected topic model: **logistic_regression**
+Selected topic model: **char_tfidf_logistic_regression**
 
 Final models were saved as:
 
@@ -90,38 +90,38 @@ The selected model was retrained on training plus validation records and evaluat
 
 | Metric | Score |
 |---|---:|
-| Accuracy | 0.5885 |
-| Macro precision | 0.5913 |
-| Macro recall | 0.5887 |
-| Macro F1-score | 0.5897 |
-| Weighted F1-score | 0.5894 |
+| Accuracy | 0.6062 |
+| Macro precision | 0.6069 |
+| Macro recall | 0.6065 |
+| Macro F1-score | 0.6067 |
+| Weighted F1-score | 0.6063 |
 
 Per-class results:
 
 | Class | Precision | Recall | F1-score | Support |
 |---|---:|---:|---:|---:|
-| Negative | 0.6481 | 0.6385 | 0.6433 | 603 |
-| Neutral | 0.5138 | 0.5474 | 0.5301 | 612 |
-| Positive | 0.6120 | 0.5803 | 0.5957 | 598 |
+| Negative | 0.6622 | 0.6501 | 0.6561 | 603 |
+| Neutral | 0.5456 | 0.5474 | 0.5465 | 612 |
+| Positive | 0.6129 | 0.6221 | 0.6174 | 598 |
 
 ### Topic classification
 
 | Metric | Score |
 |---|---:|
-| Accuracy | 0.9073 |
-| Macro precision | 0.7890 |
-| Macro recall | 0.5091 |
-| Macro F1-score | 0.5875 |
-| Weighted F1-score | 0.8948 |
+| Accuracy | 0.9619 |
+| Macro precision | 0.9157 |
+| Macro recall | 0.7607 |
+| Macro F1-score | 0.8241 |
+| Weighted F1-score | 0.9597 |
 
 Per-class results:
 
 | Class | Precision | Recall | F1-score | Support |
 |---|---:|---:|---:|---:|
-| Account_Security | 1.0000 | 0.3077 | 0.4706 | 26 |
-| Community_Discussion | 0.9184 | 0.9839 | 0.9500 | 1555 |
-| Feature_Feedback | 0.3056 | 0.1667 | 0.2157 | 66 |
-| Technical_Issues | 0.9320 | 0.5783 | 0.7138 | 166 |
+| Account_Security | 0.8750 | 0.5385 | 0.6667 | 26 |
+| Community_Discussion | 0.9663 | 0.9942 | 0.9800 | 1555 |
+| Feature_Feedback | 0.8627 | 0.6667 | 0.7521 | 66 |
+| Technical_Issues | 0.9589 | 0.8434 | 0.8974 | 166 |
 
 ## 7. Confusion Matrices
 
@@ -149,10 +149,10 @@ round2/reports/topic_errors.csv
 | Text ID | Actual label | Predicted label | Text |
 |---|---|---|---|
 | TXT_00003 | Positive | Neutral | Would you like to join us at our annual gala at the Sandman Signature Resort on Oct 25? Contact our centre at 6042773100 for tickets! |
-| TXT_00006 | Negative | Positive | @user @user aaaah. Nokia used to make the Best Phone Cameras Ever.  Sadly I think those days may be past. |
 | TXT_00010 | Neutral | Positive | "1st game played under Solar Powered floodlights in the world happened in MYSA,Nairobi Kenya. #PhilipsLED" |
-| TXT_00033 | Positive | Negative | The game 1st album 1 song he say he rap like Eazy-E then Nas then 50 cent then dr Dre then Jay-Z then Eazy-E again then like his dead bro |
+| TXT_00092 | Negative | Neutral | I may have just dropped two letter grades of intelligence after listening to that Kanye West rant... |
 | TXT_00108 | Negative | Neutral | November 21 in the lonely hour tour.. OKAY SAM SMITH OKAY!!!! :-(((( TAPOS SOLD OUT PA OKAY!!!!! OKAY LANG TALAGA |
+| TXT_00131 | Neutral | Positive | @user Milan, in my opinion, have only the 7th best squad, after Inter, Roma, Juventus, Lazio, Napoli and Fiorentina." |
 
 Typical causes include sarcasm, slang, mixed sentiment, short text, and neutral language containing emotional words.
 
@@ -161,10 +161,10 @@ Typical causes include sarcasm, slang, mixed sentiment, short text, and neutral 
 | Text ID | Actual label | Predicted label | Text |
 |---|---|---|---|
 | TXT_00079 | Account_Security | Community_Discussion | bloodymary - hackers nirvana - smell like teen spirit butterfingers - nicotine feeder - 7 days in the sun smashing pumpkins - bullets with.. |
-| TXT_00190 | Feature_Feedback | Community_Discussion | What's the requirement to work at Dunkin? Complete up to 8th grade? Reasons I hate going there. No people skills. |
-| TXT_00261 | Technical_Issues | Feature_Feedback | "Kendrick Lamar may just be the greatest rapper of this generation, and maybe many more to come" |
 | TXT_00296 | Technical_Issues | Community_Discussion | SUN UPDATE: UFC 191, Beyonce with Ronda Rousey, Jimmy Snuka, TUF, New WWE stable, CHIKARA King of Trios |
-| TXT_00402 | Feature_Feedback | Community_Discussion | Fuck a Saturday class I just wanna go home and play with our squirrel and watch Jurassic Park |
+| TXT_00643 | Feature_Feedback | Community_Discussion | I don't see why justin thinks it's okay to work Tuesday's.. It's fall were supposed to get $1 burgers at bar Louie and blackout |
+| TXT_00807 | Account_Security | Community_Discussion | Will Fleeing Syrians Flood the Food banks or be served at The Ritz ?  David Cameron Merkel Duncan Smith Theresa May The Pope Sentimentalists |
+| TXT_00820 | Account_Security | Community_Discussion | "may the gods speed him, RIP, Frank Gifford, New York Giants legend and husband to Kathy Lee Gifford, dead at 84 |
 
 Topic errors are concentrated in minority categories because those categories contain fewer training examples and share vocabulary with other topics.
 
