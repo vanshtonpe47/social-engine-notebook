@@ -1,0 +1,4 @@
+topic_prediction,records,mean_sentiment,share
+Community_Discussion,45,-0.13333333333333333,0.9
+Feature_Feedback,4,-0.25,0.08
+Technical_Issues,1,0.0,0.02
